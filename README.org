@@ -1,4 +1,4 @@
-* Data Science Tools1
+* Data Science Tools 1
   - Course: Data Science Project 1 COMP-4447-1
   - Class time: M, Wed  07:00 PM -  08:50 PM  |Engineering & Computer Science | Room 410
   - Instructor: /Pooran Singh Negi, pooran.negi@du.edu/ [[https://sites.google.com/site/poorannegi/][webpage]]
@@ -14,7 +14,7 @@
    -[[http://greenteapress.com/wp/think-bayes/][ Think Bayes]]  
    - [[http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/][Probabilistic Programming & Bayesian Methods for Hackers]]
 ** Optional material
-
+More to come
 * Course Description
 It is recommended that you consult this github page often for material related to this course. You should check your e-mail periodically for messages.
 Assignments will be upload here and in the [[https://canvas.du.edu/login/ldap][canvas]].
