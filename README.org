@@ -117,10 +117,8 @@ Please install Linux Subsystem on window 10. Follow the instruction in this post
 by Hugo Ferreira for installing Linux and Anaconda on windows.
 
 Note that we'll be using Version 2018.12 | Release Date: December 21, 2018. When you follow above post please download
-https://repo.anaconda.com/archive/Anaconda2-2018.12-Linux-x86_64.sh using command
-
-wget https://repo.anaconda.com/archive/Anaconda2-2018.12-Linux-x86_64.sh
-while following *Install Anaconda* section.
+Anaconda3-2018.12-Linux-x86_64.sh  using command
+*wget https://repo.continuum.io/archive/Anaconda3-2018.12-Linux-x86_64.sh* while following *Install Anaconda* section in blog post.
 
 
 You can also watch this [[https://www.youtube.com/watch?v=Cvrqmq9A3tA][video]] to see installation of Windows 10 Bash & Linux Subsystem Setup but you still have to
