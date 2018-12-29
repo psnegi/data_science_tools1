@@ -78,7 +78,7 @@ Please respect DU [[https://www.du.edu/studentlife/studentconduct/honorcode.html
      
 * Software
 ** Python
-We want to have same experience at any part of data science life cycle. Please follow following step as
+We want to have same experience at any part of data science life cycle. Please follow steps as
 per your operating system.
 
 Please install [[https://www.anaconda.com/download/][Anaconda for Python 3.6 data science platform. Please install Download Anaconda Distribution
@@ -90,9 +90,9 @@ See the youtube link [[https://www.youtube.com/watch?v=OOFONKvaz0A][Installing A
 Please choose right OS from anaconda site.
 
 *** Window based installation
-Please install Linux Subsystem on window 10. See this video to follow the instruction on installation.
+Please install Linux Subsystem on window 10.
 
-Then follow the instruction in this post [Using Windows Subsystem for Linux for Data Science](https://medium.com/hugo-ferreiras-blog/using-windows-subsystem-for-linux-for-data-science-9a8e68d7610c)
+Follow the instruction in this post [[https://medium.com/hugo-ferreiras-blog/using-windows-subsystem-for-linux-for-data-science-9a8e68d7610c][Using Windows Subsystem for Linux for Data Science]]
 by Hugo Ferreira for installing Linux and Anaconda on windows.
 
 Note that we'll be using Version 2018.12 | Release Date: December 21, 2018. When you follow above post please download
@@ -102,7 +102,7 @@ wget https://repo.anaconda.com/archive/Anaconda2-2018.12-Linux-x86_64.sh
 while following *Install Anaconda* section.
 
 
-You can also watch this [video](https://www.youtube.com/watch?v=Cvrqmq9A3tA) to see installation of Windows 10 Bash & Linux Subsystem Setup but you still have to
+You can also watch this [[https://www.youtube.com/watch?v=Cvrqmq9A3tA][video]] to see installation of Windows 10 Bash & Linux Subsystem Setup but you still have to
 install Anaconda as mentioned in above blog post.
 
 
