@@ -110,12 +110,10 @@ We'll be doing live excercises.
 See the youtube link [[https://www.youtube.com/watch?v=OOFONKvaz0A][Installing Anaconda, Jupyter Notebook]]. 
 
 *** Linux and Mac Os installation.
-Please choose right OS from anaconda site.
+Please choose right operating system from anaconda site.
 
 *** Window based installation
-Please install Linux Subsystem on window 10.
-
-Follow the instruction in this post [[https://medium.com/hugo-ferreiras-blog/using-windows-subsystem-for-linux-for-data-science-9a8e68d7610c][Using Windows Subsystem for Linux for Data Science]]
+Please install Linux Subsystem on window 10. Follow the instruction in this post [[https://medium.com/hugo-ferreiras-blog/using-windows-subsystem-for-linux-for-data-science-9a8e68d7610c][Using Windows Subsystem for Linux for Data Science]]
 by Hugo Ferreira for installing Linux and Anaconda on windows.
 
 Note that we'll be using Version 2018.12 | Release Date: December 21, 2018. When you follow above post please download
