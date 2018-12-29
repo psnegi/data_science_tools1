@@ -7,7 +7,9 @@
    
 ** Books 
    - [[https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/ref=sr_1_2?s=books&ie=UTF8&qid=1522206082&sr=1-2&keywords=pandas][Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 2nd Edition]]  by Wes McKinney. It is available online from [[https://library.du.edu/][library]]
+
 *** Other books     
+
    - [[http://greenteapress.com/thinkstats2/html/index.html][Think Stats: Exploratory Data Analysis in Python]]
    -[[http://greenteapress.com/wp/think-bayes/][ Think Bayes]]  
    - [[http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/][Probabilistic Programming & Bayesian Methods for Hackers]]
@@ -17,14 +19,15 @@
   
 *This syllabus is subject to change at the discretion of the instructor*
 
-Main objective of data science tools 1 is to learn various tools to perform data analysis.
-It is more like a hacking skill set but our primary focus will be on the scientific python  and Linux eco system. We'll use jupyter notebook/lab for in class and homework. This should make our learning very interactive.
+The main objective of data science tools 1 is to learn various tools to perform data analysis. Focus in tool1 is data cleanup, summarization ,and visualization.
+It is more like a hacking skill set but our primary focus will be on the scientific python  and Linux ecosystem. We'll use [[http://jupyter.org/][jupyter notebook/lab]] for in the class and homeworks. This should make our learning interactive.
 
-For final project, students will work through  individual or team projects applying course-work
-to the full data life cycle within a particular domain. Focus will also be
+For the final project, students will work through  individual or team projects applying course-work
+to the full data lifecycle within a particular domain. The focus will also be
 on best data science/software engineering practices and reproducible work.
 
-*Please select one of the project by January 20th  as per your preference.* There will be a homework asking about detail of your final project and any feedback. Primary focus in tool1 is data cleanup, summarization and visualization.
+*Please select one of the projects by January 20th  as per your preference.* There will be a homework asking about the detail of your final project and any feedback.
+
 
 ** Syllabus
 - Jupyter Notebook for reproducible workflow.
@@ -76,7 +79,7 @@ Please respect DU [[https://www.du.edu/studentlife/studentconduct/honorcode.html
   You can choose your own dataset.
    - more to come ...
      
-* Software
+* Software Installation
 ** Python
 We want to have same experience at any part of data science life cycle. Please follow steps as
 per your operating system.
