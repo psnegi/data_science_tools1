@@ -42,7 +42,7 @@ on best data science/software engineering practices and reproducible work.
 - Go over some some topics as per students demands.
 - more to come
 
- Scientific python ( primarily numpy, matplotlib, request, seaborn, basic pandas) will be used throughout the course.
+ *Linux command line and scientific python ( primarily numpy, matplotlib, request, seaborn, basic pandas) will be used throughout the course.*
 
 * Grading
 *There will be a final project and coding/analysis homework assignments. We'll drop one of your worst assignment grade*.
