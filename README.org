@@ -26,7 +26,7 @@ For the final project, students will work through  individual or team projects a
 to the full data lifecycle within a particular domain. The focus will also be
 on best data science/software engineering practices and reproducible work.
 
-*Please select one of the projects by January 20th  as per your preference.* There will be a homework asking about the detail of your final project and any feedback.
+*Please select one of the projects by January 20th  as per your preference.* There will be a homework asking about the detail of your final project. We'll provide feedback about feasibility as the final project.
 
 
 ** Syllabus
