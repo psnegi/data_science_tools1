@@ -30,7 +30,7 @@ on best data science/software engineering practices and reproducible work.
 
 
 ** Syllabus
-*This syllabus is subject to change at the discretion of the instructor*
+*This syllabus is subject to change at the discretion of the instructor*.
 - Jupyter Notebook for reproducible workflow.
 - Data science and EDA.
 - Git tools work flow.
