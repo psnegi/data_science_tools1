@@ -104,9 +104,9 @@ Please see [[https://www.du.edu/registrar/calendar/][registrar calender]] for Ac
 We want to have same experience at any part of data science life cycle. Please follow steps as
 per your operating system.
 
-Please install [[https://www.anaconda.com/download/][Anaconda for Python 3.6 data science platform. Please install Download Anaconda Distribution
-Version 2018.12 | Release Date: December 21, 2018.  ]]Please install it before coming in the class. 
-We'll be doing live excercises.
+Please install [[https://www.anaconda.com/download/][Anaconda for Python 3.7 data science platform]]. Please install Download Anaconda Distribution
+*Version 2018.12 | Release Date: December 21, 2018*. Please install it before coming in the class. 
+We'll be doing live exercises almost in all the classes.
 See the youtube link [[https://www.youtube.com/watch?v=OOFONKvaz0A][Installing Anaconda, Jupyter Notebook]]. 
 
 *** Linux and Mac Os installation.
