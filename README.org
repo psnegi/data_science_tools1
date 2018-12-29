@@ -46,11 +46,11 @@ on best data science/software engineering practices and reproducible work.
  Scientific python ( primarily numpy, matplotlib, request, seaborn, basic pandas) will be used throughout the course.
 
 * Grading
-*There will be a final project and coding/analysis homework assignments. We'll drop one of your worst assignment grade*
+*There will be a final project and coding/analysis homework assignments. We'll drop one of your worst assignment grade*.
 
 One has to do  a *final project*  to full fill course requirements.
 There will be a final presentation of the work done during current quarter.
-You will be required to  submit a final report.
+You will be required to  submit a final report in the jupyter notebook format.
 
 ** [[./project_presentation.org][project presentation grading  rubric]]
 ** [[./project_rubric.org][final project report grading rubric]]
@@ -91,10 +91,11 @@ Please respect DU [[https://www.du.edu/studentlife/studentconduct/honorcode.html
 Students with recognized disabilities will be provided reasonable
 accommodations, appropriate to the course, upon documentation of the disability with a Student
 Accommodation Form from the Disability Services Program. *To receive these accommodations, you must request the specific accommodations, by submitting them to the instructor in writing,
-by the end of first week of classes.* Visit [[https://www.du.edu/studentlife/disability/][CAMPUS LIFE & INCLUSIVE EXCELLENCE]] webpage.
+by the end of first week of classes.* Visit [[https://www.du.edu/studentlife/disability/][CAMPUS LIFE & INCLUSIVE EXCELLENCE]] webpage for details.
 
 * Withdrawal Policy
 Please see [[https://www.du.edu/registrar/calendar/][registrar calender]] for Academic deadlines. **We'll strictly follow the deadlines.**
+
 * Projects
   You can choose your own dataset.
    - more to come ...
