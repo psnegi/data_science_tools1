@@ -19,8 +19,6 @@ More to come
 It is recommended that you consult this github page often for material related to this course. You should check your e-mail periodically for messages.
 Assignments will be upload here and in the [[https://canvas.du.edu/login/ldap][canvas]].
 
-*This syllabus is subject to change at the discretion of the instructor*
-
 The main objective of data science tools 1 is to learn various tools to perform data analysis. Focus in tool1 is data cleanup, summarization ,and visualization.
 It is more like a hacking skill set but our primary focus will be on the scientific python  and Linux ecosystem. We'll use [[http://jupyter.org/][jupyter notebook/lab]] for in the class and homeworks. This should make our learning interactive.
 
@@ -32,6 +30,7 @@ on best data science/software engineering practices and reproducible work.
 
 
 ** Syllabus
+*This syllabus is subject to change at the discretion of the instructor*
 - Jupyter Notebook for reproducible workflow.
 - Data science and EDA.
 - Git tools work flow.
