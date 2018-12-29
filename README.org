@@ -94,7 +94,7 @@ Accommodation Form from the Disability Services Program. *To receive these accom
 by the end of first week of classes.* Visit [[https://www.du.edu/studentlife/disability/][CAMPUS LIFE & INCLUSIVE EXCELLENCE]] webpage for details.
 
 * Withdrawal Policy
-Please see [[https://www.du.edu/registrar/calendar/][registrar calender]] for Academic deadlines. **We'll strictly follow the deadlines.**
+Please see [[https://www.du.edu/registrar/calendar/][registrar calender]] for Academic deadlines. *We'll strictly follow the deadlines.*
 
 * Projects
   You can choose your own dataset.
