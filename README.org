@@ -1,0 +1,108 @@
+* Data Science Tool1
+  - Course: Data Science Project 1 COMP-4447-1
+  - Class time: M, Wed  07:00 PM -  08:50 PM  |Engineering & Computer Science | Room 410
+  - Instructor: /Pooran Singh Negi, pooran.negi@du.edu/ [[https://sites.google.com/site/poorannegi/][webpage]]
+  - Office: 470
+  - Office Hours: Tue, Thu,  2.00 p.m. - 4.00 p.m. Email for 1-on-1 help.
+   
+** Books 
+   - [[https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/ref=sr_1_2?s=books&ie=UTF8&qid=1522206082&sr=1-2&keywords=pandas][Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 2nd Edition]]  by Wes McKinney. It is available online from [[https://library.du.edu/][library]]
+*** other books     
+   - [[http://greenteapress.com/thinkstats2/html/index.html][Think Stats: Exploratory Data Analysis in Python]]
+   -[[http://greenteapress.com/wp/think-bayes/][ Think Bayes]]  
+   - [[http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/][Probabilistic Programming & Bayesian Methods for Hackers]]
+** optional material
+
+* Course Description
+  
+*This syllabus is subject to change at the discretion of the instructor*
+
+Main objective of data science tools 1 is to learn various tools to perform data analysis.
+It is more like a hacking skill set but we will focus on the scientific python  and Linux eco system. We'll use jupuyter notebook/lab
+for in class and homework. This should make our learning very interactive.
+
+For final project, students will work through  individual or team projects applying course-work
+to the full data life cycle within a particular domain. Focus will also be
+on best data science/software engineering practices and reproducible work.
+If you are not working towards your capstone project, *Please select one of the project by January 20th  as per your preference.*
+There will be a homework asking about detail of your final project and any feedback.
+Primary focus in tool1 is data cleanup, summarization and visualization.
+
+** syllabus
+- Jupyter Notebook for reproducible workflow.
+- Data science and EDA.
+- Git tools work flow.
+- Data science at command prompt. Linux command line, bash,  basic awk and sed.
+- Scientific python ( primarily numpy, matplotlib, request, seaborn, basic pandas).
+- Data collection and ingestion(web scrapping and reading datasets + pandas).
+- Data cleanup and imputation + Pandas.
+- Data summarization and visualization+ panda(groupby, apply, aggregate etc).
+- Final projects, Can be based on initial capstone work?
+- Go over some some topics as per students demands.
+- more to come
+
+*** Topics
+
+* Grading
+There will be a final project and some coding homework assignments.
+
+One has to do  a *final project*  to full fill course requirements.
+There will be a final presentation of the work done during current quarter.
+You will be required to  submit a final report.
+
+** [[./project_presentation.org][project presentation grading  rubric]]
+** [[./project_rubric.org][final project report grading rubric]]
+
+** Dates
+
+|--------------------------------------------------------------------------------------------------------+-----|
+| coding Homework                                                                                        | 50% |
+|--------------------------------------------------------------------------------------------------------+-----|
+| pre presentation, xx March                                                                             |     |
+|--------------------------------------------------------------------------------------------------------+-----|
+| final project presentation, 15 minutes, xx March in class                                              | 20% |
+|--------------------------------------------------------------------------------------------------------+-----|
+| final project report, due xx March, please refer to above final report format for submission guideline | 30% |
+|--------------------------------------------------------------------------------------------------------+-----|
+|                                                                                                        |     |
+
+** Final course grading rubric
+
+grade range [('A', >=95), ('A_minus', >=90), ('B_plus', >=85), ('B', >=80), ('B_minus', >=75), ('C_plus', >=70), ('C', >=65), ('C_minus', >=60),
+ ('D_plus', >=55), ('D', >=50), ('D_minus', >=45),  ('F', < 45)])
+
+
+Please respect DU [[https://www.du.edu/studentlife/studentconduct/honorcode.html][Honor Yourself, Honor the Code]]
+
+
+* Projects
+  You can choose your own dataset.
+   - more to come ...
+     
+* Software
+** Python
+Please install [[https://www.anaconda.com/download/][Anaconda for Python 3.6 data science platform. ]]Please install it before coming in the class on Tuesday.
+See the youtube link [[https://www.youtube.com/watch?v=OOFONKvaz0A][Installing Anaconda, Jupyter Notebook]]. 
+You can also go to my  [[https://github.com/psnegi/PythonForReproducibleResearch][python for reproducible research]]  github repository and start by running pythonBasic.ipynb notebook.
+I will go over basic of python and jupyter notebook.
+*** Python learning resources
+   - [[https://try.jupyter.org/][try python notebook online without installing anything]]
+   - [[http://pythontutor.com/live.html#mode%3Dedit][Runs and visualizes your python code]]
+   - [[https://docs.python.org/3/tutorial/index.html][The Python Tutorial]]  
+*** data analysis tools in python
+    - [[https://pandas.pydata.org/][pandas]]
+
+* Homeworks
+*No late hw will be accepted*
+
+|-------+-----------------------------------------------------------------+---------------------|
+| HW no | desciption and link                                             |                     |
+|       |                                                                 | Due date            |
+|-------+-----------------------------------------------------------------+---------------------|
+
+* Course Activity
+|       Date | Reading/Coding Assignments                        | class activity                                                                                                                                                     |
+|------------+---------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+
