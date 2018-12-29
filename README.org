@@ -16,7 +16,9 @@
 ** Optional material
 
 * Course Description
-  
+It is recommended that you consult this github page often for material related to this course. You should check your e-mail periodically for messages.
+Assignments will be upload here and in the [[https://canvas.du.edu/login/ldap][canvas]].
+
 *This syllabus is subject to change at the discretion of the instructor*
 
 The main objective of data science tools 1 is to learn various tools to perform data analysis. Focus in tool1 is data cleanup, summarization ,and visualization.
@@ -44,7 +46,7 @@ on best data science/software engineering practices and reproducible work.
  Scientific python ( primarily numpy, matplotlib, request, seaborn, basic pandas) will be used throughout the course.
 
 * Grading
-There will be a final project and coding/analysis homework assignments.
+*There will be a final project and coding/analysis homework assignments. We'll drop one of your worst assignment grade*
 
 One has to do  a *final project*  to full fill course requirements.
 There will be a final presentation of the work done during current quarter.
@@ -72,9 +74,27 @@ grade range [('A', >=95), ('A_minus', >=90), ('B_plus', >=85), ('B', >=80), ('B_
  ('D_plus', >=55), ('D', >=50), ('D_minus', >=45),  ('F', < 45)])
 
 
+* Honor code
+All members of the University of Denver community are expected to uphold the values of Integrity, Respect, and Responsibility.
+These values embody the standards of conduct for students, faculty, staff, and administrators as members of the University community. 
+Our institutional values are defined as:
+
+Integrity: acting in an honest and ethical manner;
+
+Respect: honoring differences in people, ideas, experiences, and opinions;
+
+Responsibility: accepting ownership for one's own behavior and conduct.
+
 Please respect DU [[https://www.du.edu/studentlife/studentconduct/honorcode.html][Honor Yourself, Honor the Code]]
 
+* Students with Disabilities
+Students with recognized disabilities will be provided reasonable
+accommodations, appropriate to the course, upon documentation of the disability with a Student
+Accommodation Form from the Disability Services Program. *To receive these accommodations, you must request the specific accommodations, by submitting them to the instructor in writing,
+by the end of first week of classes.* Visit [[https://www.du.edu/studentlife/disability/][CAMPUS LIFE & INCLUSIVE EXCELLENCE]] webpage.
 
+* Withdrawal Policy
+Please see [[https://www.du.edu/registrar/calendar/][registrar calender]] for Academic deadlines. **We'll strictly follow the deadlines.**
 * Projects
   You can choose your own dataset.
    - more to come ...
