@@ -61,16 +61,18 @@ You will be required to  submit a final report in the jupyter notebook format.
 |--------------------------------------------------------------------------------------------------------+-----|
 | pre presentation, xx March                                                                             |     |
 |--------------------------------------------------------------------------------------------------------+-----|
-| final project presentation, 15 minutes, xx March in class                                              | 20% |
+| midterm, xx Feb in class                                                                               | 25% |
 |--------------------------------------------------------------------------------------------------------+-----|
-| final project report, due xx March, please refer to above final report format for submission guideline | 30% |
+| final project presentation, 15 minutes, xx March in class                                              | 15% |
+|--------------------------------------------------------------------------------------------------------+-----|
+| final project report, due xx March, please refer to above final report format for submission guideline | 20% |
 |--------------------------------------------------------------------------------------------------------+-----|
 |                                                                                                        |     |
 
 ** Final course grading rubric
 
-grade range [('A', >=95), ('A_minus', >=90), ('B_plus', >=85), ('B', >=80), ('B_minus', >=75), ('C_plus', >=70), ('C', >=65), ('C_minus', >=60),
- ('D_plus', >=55), ('D', >=50), ('D_minus', >=45),  ('F', < 45)])
+grade range [('A', >=93), ('A_minus', >=89), ('B_plus', >=85), ('B', >=81), ('B_minus', >=77), ('C_plus', >=73), ('C', >=69), ('C_minus', >=65),
+ ('D_plus', >61), ('D', >=57), ('D_minus', >=53),  ('F', < 53)])
 
 
 * Honor code
