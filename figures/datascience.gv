@@ -1,0 +1,9 @@
+digraph G{
+  math -> DataScience;
+  "Probability and Statistics" -> DataScience;
+  Visualization -> DataScience;
+  HackingSkill ->DataScience;
+  "Data Engineering" ->DataScience;
+  "Domain knowledge" ->DataScience;
+  DataScience[color=".7 .3 1.0", style= filled];
+}
