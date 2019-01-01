@@ -106,39 +106,54 @@ Please see [[https://www.du.edu/registrar/calendar/][registrar calender]] for Ac
 We want to have same experience at any part of data science life cycle. Please follow steps as
 per your operating system.
 
-Please install [[https://www.anaconda.com/download/][Anaconda for Python 3.7 data science platform]]. Please install Download Anaconda Distribution
-*Version 2018.12 | Release Date: December 21, 2018*. Please install it before coming in the class. 
-We'll be doing live exercises almost in all the classes.
-See the youtube link [[https://www.youtube.com/watch?v=OOFONKvaz0A][Installing Anaconda, Jupyter Notebook]]. 
-
-*** Linux and Mac Os installation.
-Please choose right operating system from anaconda site.
 
 *** Window based installation
 Please install Linux Subsystem on window 10. Follow the instruction in this post [[https://medium.com/hugo-ferreiras-blog/using-windows-subsystem-for-linux-for-data-science-9a8e68d7610c][Using Windows Subsystem for Linux for Data Science]]
-by Hugo Ferreira for installing Linux and Anaconda on windows.
+by Hugo Ferreira for installing Linux. **Don't install Anaconda part.**
 
-Note that we'll be using Version 2018.12 | Release Date: December 21, 2018. When you follow above post please download
-Anaconda3-2018.12-Linux-x86_64.sh  using following command. Author uses old version.
-
-*wget https://repo.continuum.io/archive/Anaconda3-2018.12-Linux-x86_64.sh* 
-
-while following *Install Anaconda* section in blog post.
-
-
-You can also watch this [[https://www.youtube.com/watch?v=Cvrqmq9A3tA][video]] to see installation of Windows 10 Bash & Linux Subsystem Setup but you still have to
-install Anaconda as mentioned in above blog post.
+You can also watch this [[https://www.youtube.com/watch?v=Cvrqmq9A3tA][video]] to see installation of Windows 10 Bash & Linux Subsystem Setup.
 
 
 You can also go to my  [[https://github.com/psnegi/PythonForReproducibleResearch][python for reproducible research]]  github repository and start by running pythonBasic.ipynb notebook.
 I will go over basic of python and jupyter notebook.
+
+**One you are in Linux/Mac bash command prompt, Please follow following instructions**
+
+*** installing packages
+**This is very important step. We are tying to make sure everybody have same computing environment**
+
+- Once at command prompt you  have to install
+  + apt-get install python3-venv
+- Go to the folder where you want to keep python file, notebooks related to this course.
+- run **python3 -m venv /path/to/new/virtual/environment**
+  + e.g. I ran **python3 -m venv dst1_env**
+- To activate you environment run **source /path/to/new/virtual/environment/bin/activate **
+  + e.g From this course directory I run, **source dst1_env/bin/activate**
+
+- run **python3 -m pip install --upgrade pip**
+- run **wget https://raw.githubusercontent.com/psnegi/data_science_tools1/master/requirements.txt**
+- run **pip install -r requirements.txt**
+
+
+
+
+
+After this when you run notebook you should be able to see, **RISE** slideshow extension in notebook toolbar
+
 
 *** Python learning resources
    - [[https://try.jupyter.org/][try python notebook online without installing anything]]
    - [[http://pythontutor.com/live.html#mode%3Dedit][Runs and visualizes your python code]]
    - [[https://docs.python.org/3/tutorial/index.html][The Python Tutorial]]  
 *** data analysis tools in python
+
+
     - [[https://pandas.pydata.org/][pandas]]
+
+* Notebooks
+** Jan 7
+- [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/datascience.ipynb][datascience introduction]]
+- [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/jupyter_notebook_lab_into.ipynb][Jupyter introduction]]
 
 * Homeworks
 *No late hw will be accepted*
