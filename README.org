@@ -121,7 +121,7 @@ also lists Windows Subsystem for Linux (WSL) for window 10(Windows 10 Creators o
 I am using python 3.5.2. Hopefully any version of python 3 should work.
 
 *** creating virtual environment and installing packages for data science tools 1
-*Following steps are very important.*
+*Run following commands from  command prompt.*
 
 - *apt-get install python3-venv*
 - Using command line(*cd command*), go to the folder where you want to keep python file, notebooks related to this course.
@@ -139,6 +139,7 @@ I am using python 3.5.2. Hopefully any version of python 3 should work.
 
 - click on **RISE** slideshow extension in notebook, if you want to see notebook as slideshow.
 
+To deactivate  python virtual environment, run *deactivate*
 
 *** Python learning resources
 You can also go to my  [[https://github.com/psnegi/PythonForReproducibleResearch][python for reproducible research]]  github repository and start by running pythonBasic.ipynb notebook.
