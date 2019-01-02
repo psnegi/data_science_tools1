@@ -103,52 +103,52 @@ Please see [[https://www.du.edu/registrar/calendar/][registrar calender]] for Ac
      
 * Software Installation
 ** Python
-We want to have same experience at any part of data science life cycle. Please follow steps as
+We want everybody to have same experience using computational tools in data science tools 1. Please follow steps as
 per your operating system.
-
 
 *** Window based installation
 Please install Linux Subsystem on window 10. Follow the instruction in this post [[https://medium.com/hugo-ferreiras-blog/using-windows-subsystem-for-linux-for-data-science-9a8e68d7610c][Using Windows Subsystem for Linux for Data Science]]
-by Hugo Ferreira for installing Linux. **Don't install Anaconda part.**
+by Hugo Ferreira for installing Linux. **ignore install Anaconda part.**
 
 You can also watch this [[https://www.youtube.com/watch?v=Cvrqmq9A3tA][video]] to see installation of Windows 10 Bash & Linux Subsystem Setup.
+** Linux /Mac users should already have bash command prompt
+You can run *echo $0* to check current shell. Change to bash shell using  *chsh -s /bin/bash*
 
+*One you are in Linux/Mac bash command prompt, Please follow following instructions*
+** Python3 installation
+Please follow instructions [[https://realpython.com/installing-python/][here]] to install python3 if it is not installed in your system. This link
+also lists Windows Subsystem for Linux (WSL) for window to users(Windows 10 Creators or Anniversary Update).
+I am using python 3.5.2. Hopefully any version of python 3 should work.
 
-You can also go to my  [[https://github.com/psnegi/PythonForReproducibleResearch][python for reproducible research]]  github repository and start by running pythonBasic.ipynb notebook.
-I will go over basic of python and jupyter notebook.
+*** creating virtual environment and installing packages for data science tools 1
+*Following steps are very important.*
 
-**One you are in Linux/Mac bash command prompt, Please follow following instructions**
-
-*** installing packages
-**This is very important step. We are tying to make sure everybody have same computing environment**
-
-- Once at command prompt you  have to install
-  + apt-get install python3-venv
-- Go to the folder where you want to keep python file, notebooks related to this course.
+- *apt-get install python3-venv*
+- Using command line(*cd command*), go to the folder where you want to keep python file, notebooks related to this course.
 - run **python3 -m venv /path/to/new/virtual/environment**
-  + e.g. I ran **python3 -m venv dst1_env**
-- To activate you environment run **source /path/to/new/virtual/environment/bin/activate **
-  + e.g From this course directory I run, **source dst1_env/bin/activate**
+  + e.g. I ran *python3 -m venv dst1_env*
+- To activate you environment run *source /path/to/new/virtual/environment/bin/activate*
+  + e.g From this course directory I run, *source dst1_env/bin/activate*
 
-- run **python3 -m pip install --upgrade pip**
-- run **wget https://raw.githubusercontent.com/psnegi/data_science_tools1/master/requirements.txt**
-- run **pip install -r requirements.txt**
+- run *python3 -m pip install --upgrade pip*
+- run *wget https://raw.githubusercontent.com/psnegi/data_science_tools1/master/requirements.txt*
+- run *pip install -r requirements.txt*
+- run *jupyetr notebook* or *jupyter lab*. 
+- In the browser you should see your current files.
+- Click on the notebook you want to run.
 
-
-
-
-
-After this when you run notebook you should be able to see, **RISE** slideshow extension in notebook toolbar
+- click on **RISE** slideshow extension in notebook, if you want to see notebook as slideshow.
 
 
 *** Python learning resources
+You can also go to my  [[https://github.com/psnegi/PythonForReproducibleResearch][python for reproducible research]]  github repository and start by running pythonBasic.ipynb notebook.
+I will go over basic of python and jupyter notebook.
+
    - [[https://try.jupyter.org/][try python notebook online without installing anything]]
    - [[http://pythontutor.com/live.html#mode%3Dedit][Runs and visualizes your python code]]
    - [[https://docs.python.org/3/tutorial/index.html][The Python Tutorial]]  
 *** data analysis tools in python
-
-
-    - [[https://pandas.pydata.org/][pandas]]
+  - more to come
 
 * Notebooks
 ** Jan 7
