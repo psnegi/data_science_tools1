@@ -107,7 +107,7 @@ We want everybody to have same experience using computational tools in data scie
 per your operating system.
 
 *** Window based installation
-Please install Linux Subsystem on window 10. Follow the instruction in this post [[https://medium.com/hugo-ferreiras-blog/using-windows-subsystem-for-linux-for-data-science-9a8e68d7610c][Using Windows Subsystem for Linux for Data Science]]
+Please install Windows Subsystem for Linux (WSL) on window 10. Follow the instruction in this post [[https://medium.com/hugo-ferreiras-blog/using-windows-subsystem-for-linux-for-data-science-9a8e68d7610c][Using Windows Subsystem for Linux for Data Science]]
 by Hugo Ferreira for installing Linux. **ignore install Anaconda part.**
 
 You can also watch this [[https://www.youtube.com/watch?v=Cvrqmq9A3tA][video]] to see installation of Windows 10 Bash & Linux Subsystem Setup.
@@ -117,7 +117,7 @@ You can run *echo $0* to check current shell. Change to bash shell using  *chsh 
 *One you are in Linux/Mac bash command prompt, Please follow following instructions*
 ** Python3 installation
 Please follow instructions [[https://realpython.com/installing-python/][here]] to install python3 if it is not installed in your system. This link
-also lists Windows Subsystem for Linux (WSL) for window to users(Windows 10 Creators or Anniversary Update).
+also lists Windows Subsystem for Linux (WSL) for window 10(Windows 10 Creators or Anniversary Update).
 I am using python 3.5.2. Hopefully any version of python 3 should work.
 
 *** creating virtual environment and installing packages for data science tools 1
