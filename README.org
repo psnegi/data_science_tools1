@@ -94,9 +94,19 @@ by the end of first week of classes.* Visit [[https://www.du.edu/studentlife/dis
 * Withdrawal Policy
 Please see [[https://www.du.edu/registrar/calendar/][registrar calender]] for Academic deadlines. *We'll strictly follow the deadlines.*
 
-* Projects
-  You can choose your own dataset.
-   - more to come ...
+* Data set for Projects
+  - You can collect the dataset for you project.
+    + Web scrapping, web API (for natural language processing one can use the New York Times, twitter etc.)
+  - I am looking around to find noisy dataset for practice.
+    + See [[https://makingnoiseandhearingthings.com/2018/04/19/datasets-for-data-cleaning-practice/][Datasets for data cleaning practice]] by Rachael Tatman
+  - [[https://www.kdnuggets.com/datasets/index.html][Datasets for Data Mining and Data Science]]
+  - [[http://data.europa.eu/euodp/en/about][The EU Open Data Portal]]
+  - [[https://data.worldbank.org/][World Bank Open Data]]
+  - [[https://www.data.gov/][The home of the U.S. Government’s open data]]
+ 
+ We need to know your project/dataset, before we approve it for final project. 
+
+ More to come.
      
 * Software Installation
 ** Python
