@@ -14,7 +14,7 @@ Use code cell and markdown cell to carry out your analysis.
 Please write report using following format sections guidelines. You can create more sections if it is more natural to do so depending on your project.
 Please write each section like a report and must address the points mentioned in following rubric. Try to make your report more enjoyable to read.
 
-** Proper t
+** Proper tagging of repository for presentation and final report as per deadline(.5 points)
 ** Dataset and motivation slide (1 points)
   How/why  dataset was collected and describe the meta data of your dataset.
 
