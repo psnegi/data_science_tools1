@@ -28,7 +28,7 @@ to the  data lifecycle within a particular domain. The focus will also be
 on best data science/software engineering practices and reproducible work.
 
 *Please select  a project by January 20th  as per your preference. You are allowed to have a group of 2 to 3 students but project work must justify team count.* There will be a homework asking about the detail of your final project. We'll provide feedback about feasibility of the final project.
-*Final projects, Can be based on initial capstone work?. Please let us know it this is the case. We need to go over details.*
+*Final projects, Can be based on initial capstone work?. Please let us know if this is the case. We need to go over details.*
 
 ** Syllabus
 *This syllabus is subject to change at the discretion of the instructor*.
