@@ -2,6 +2,7 @@
   - Course: Data Science Project 1 COMP-4447-1
   - Class time: M, Wed  07:00 PM -  08:50 PM  |Engineering & Computer Science | Room 410
   - Instructor: /Pooran Singh Negi, pooran.negi@du.edu/ [[https://sites.google.com/site/poorannegi/][webpage]]
+  - GTA: Mitchell Wright
   - Office: 470
   - Office Hours: Tue, Thu,  2.00 p.m. - 4.00 p.m. Email for 1-on-1 help.
    
@@ -23,11 +24,11 @@ The main objective of data science tools 1 is to learn various tools to perform 
 It is more like a hacking skill set but our primary focus will be on the scientific python  and Linux ecosystem. We'll use [[http://jupyter.org/][jupyter notebook/lab]] for in the class and homeworks. This should make our learning interactive.
 
 For the final project, students will work through  individual or team projects applying course-work
-to the full data lifecycle within a particular domain. The focus will also be
+to the  data lifecycle within a particular domain. The focus will also be
 on best data science/software engineering practices and reproducible work.
 
-*Please select one of the projects by January 20th  as per your preference.* There will be a homework asking about the detail of your final project. We'll provide feedback about feasibility as the final project.
-
+*Please select  a project by January 20th  as per your preference. You are allowed to have a group of 2 to 3 students but project work must justify team count.* There will be a homework asking about the detail of your final project. We'll provide feedback about feasibility of the final project.
+*Final projects, Can be based on initial capstone work?. Please let us know it this is the case. We need to go over details.*
 
 ** Syllabus
 *This syllabus is subject to change at the discretion of the instructor*.
@@ -38,7 +39,6 @@ on best data science/software engineering practices and reproducible work.
 - Data collection and ingestion(web scrapping and reading datasets + pandas).
 - Data cleanup and imputation + Pandas.
 - Data summarization and visualization+ panda(groupby, apply, aggregate etc).
-- Final projects, Can be based on initial capstone work?
 - Go over some some topics as per students demands.
 - more to come
 
@@ -50,7 +50,7 @@ on best data science/software engineering practices and reproducible work.
 There will be a final presentation of the final project.
 You will be required to  submit a final project report in the jupyter notebook format.
 
-** [[./project_presentation.org][project presentation grading  rubric]]
+** [[./project_presentation.org][project project presentation grading  rubric]]
 ** [[./project_rubric.org][final project report grading rubric]]
 
 ** Dates
