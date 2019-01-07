@@ -1,11 +1,13 @@
 * Project
 
-Project requires submission of  .ipynb notebook  file  and a compiled pdf file.
-Final pdf file, should read like a data driven story/scientific study (data science). This is really important if you want to publish you story as 
-blog in the web. There are tool to publish notebook as blog article. I can  help if you decide to do so with permission from your client.
+In tools 1 we are concerned with data cleaning and exploratory analysis.
+Please select a project having enough scope for following activities.
 
-*Apart from notebook, pdf,  a 12 -15 slide presentation must contain following sections.*
-*Please present this presentation in pre presentation(20 minutes, 15 th May, Not graded) and final project presentation(25 minutes, 31 May)*
+Project requires submission of  .ipynb notebook  file  and a compiled pdf file.
+
+Final report, should read like a data driven story/scientific study (data science). This is really important if you want to publish you story as 
+blog in the web or share with stakeholders.
+
 
 ** Dataset and motivation slide (2 points)
   How/why  dataset was collected and describe the meta data of your dataset.
@@ -23,22 +25,5 @@ blog in the web. There are tool to publish notebook as blog article. I can  help
   - Describe any thing you find in the data after each visualization.
   - What data  visualization help you understanding data distribution.
   - What did you do about possible outlier as per data distribution visualization. (Did you confirm it with your client if it is actually an outlier or put a disclosure statement in notebook if you decided to remove it.)
-
-** Modelling activity/evaluation/conclusion (5 points equally distributed in following 2 question depending on whether you are building a model or not) 
-  - *if you are bulid a  model like logistic/linear regression* (3 points, 1 point each)
-
-    + What kind of hypothesis you tested about predictors(independent variables).
-    + What motivated you to use this model.
-    + Model parameter/coefficient interpretation and their error analysis in context of research question.
-  - *If you are building analytical website.* 
-    + Main Dash board webpage.(1 point)
-    + For at least one analytical/machine learning visualization(2 points,  1 point each)
-      * Webpage/form to enter and submit new data points. After submitting the data webpage graphics must change to reflect new observation effect on graphics.
-      * Database query to verify that it was actually written in the database.
-  -  What is current evaluation or finding of the project. is there some metric you can report? (2 points)
-
-
-
-
 
 
