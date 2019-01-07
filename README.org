@@ -47,8 +47,8 @@ on best data science/software engineering practices and reproducible work.
 * Grading
 *There will be  coding/analysis homework assignments, midterm and a final project. We'll drop one of your worst assignment grade*.
 
-There will be a final presentation of the work done during current quarter.
-You will be required to  submit a final report in the jupyter notebook format.
+There will be a final presentation of the final project.
+You will be required to  submit a final project report in the jupyter notebook format.
 
 ** [[./project_presentation.org][project presentation grading  rubric]]
 ** [[./project_rubric.org][final project report grading rubric]]
@@ -58,7 +58,7 @@ You will be required to  submit a final report in the jupyter notebook format.
 |--------------------------------------------------------------------------------------------------------+-----|
 | coding Homework                                                                                        | 50% |
 |--------------------------------------------------------------------------------------------------------+-----|
-| midterm, 11 Feb in class                                                                               | 25% |
+| midterm, 13 Feb in class                                                                               | 25% |
 |--------------------------------------------------------------------------------------------------------+-----|
 | final project presentation, 15 minutes, 13 March in class                                              | 15% |
 |--------------------------------------------------------------------------------------------------------+-----|
