@@ -45,9 +45,8 @@ on best data science/software engineering practices and reproducible work.
  *Linux command line and scientific python ( primarily numpy, matplotlib, request, seaborn, basic pandas) will be used throughout the course.*
 
 * Grading
-*There will be a final project and coding/analysis homework assignments. We'll drop one of your worst assignment grade*.
+*There will be  coding/analysis homework assignments, midterm and a final project. We'll drop one of your worst assignment grade*.
 
-One has to do  a *final project*  to full fill course requirements.
 There will be a final presentation of the work done during current quarter.
 You will be required to  submit a final report in the jupyter notebook format.
 
@@ -59,13 +58,11 @@ You will be required to  submit a final report in the jupyter notebook format.
 |--------------------------------------------------------------------------------------------------------+-----|
 | coding Homework                                                                                        | 50% |
 |--------------------------------------------------------------------------------------------------------+-----|
-| pre presentation, xx March                                                                             |     |
+| midterm, 11 Feb in class                                                                               | 25% |
 |--------------------------------------------------------------------------------------------------------+-----|
-| midterm ??, xx Feb in class                                                                               | 25% |
+| final project presentation, 15 minutes, 13 March in class                                              | 15% |
 |--------------------------------------------------------------------------------------------------------+-----|
-| final project presentation, 15 minutes, xx March in class                                              | 15% |
-|--------------------------------------------------------------------------------------------------------+-----|
-| final project report, due xx March, please refer to above final report format for submission guideline | 20% |
+| final project report, due 15 March, please refer to above final report format for submission guideline | 20% |
 |--------------------------------------------------------------------------------------------------------+-----|
 |                                                                                                        |     |
 
