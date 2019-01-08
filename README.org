@@ -144,7 +144,7 @@ I am using python 3.5.2. Hopefully any version of python 3 should work.
 - In the browser you should see your current files.
 - Click on the notebook you want to run.
 
-- click on **RISE** slideshow extension in notebook, if you want to see notebook as slideshow.
+- click on *RISE* slideshow extension in notebook, if you want to see notebook as slideshow.
 
 To deactivate  python virtual environment, run *deactivate*
 
