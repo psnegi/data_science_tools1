@@ -160,9 +160,10 @@ I will go over basic of python and jupyter notebook.
 
 * Notebooks
 ** Jan 7
-- [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/datascience.ipynb][datascience introduction]]
 - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/jupyter_notebook_lab_into.ipynb][Jupyter introduction]]
-
+** Jan 9
+- [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/datascience.ipynb][datascience introduction]]
+  
 * Homeworks
 *No late hw will be accepted*
 
@@ -175,7 +176,7 @@ I will go over basic of python and jupyter notebook.
 
 | Date  | Reading/Coding Assignments               | class activity                                 |
 |-------+------------------------------------------+------------------------------------------------|
-| 7 Jan | [[https://realpython.com/python-virtual-environments-a-primer/][ install juptyer etc.]]                    | Mitchell covered [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/jupyter_notebook_lab_into.ipynb][Jupyter introduction notebook]] |
+| 7 Jan | Install jupyter environment              | Mitchell covered [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/jupyter_notebook_lab_into.ipynb][Jupyter introduction notebook]] |
 |       |                                          | also helped with installation                  |
 |-------+------------------------------------------+------------------------------------------------|
 |       | [[https://realpython.com/python-virtual-environments-a-primer/][Python Virtual Environments]]              |                                                |
