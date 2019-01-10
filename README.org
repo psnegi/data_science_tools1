@@ -176,7 +176,7 @@ I will go over basic of python and jupyter notebook.
 
 | Date  | Reading/Coding Assignments       | class activity                                                                                                                                        |
 |-------+----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 7 Jan | Install jupyter environment      | Mitchell covered [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/jupyter_notebook_lab_into.ipynb][Jupyter intrsoduction notebook]]                                                                                                       |
+| 7 Jan | Install jupyter environment      | Mitchell covered [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/jupyter_notebook_lab_into.ipynb][Jupyter introduction notebook]]                                                                                                        |
 |       |                                  | also helped with installation                                                                                                                         |
 |-------+----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------|
 |-------+----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -190,7 +190,7 @@ I will go over basic of python and jupyter notebook.
 |       |                                  | To run a cell in the notebook press *alt+enter or ctr+enter*.                                                                                         |
 |       |                                  | Note that whenever a new content is posted, you must run *git pull origin master* from data_science_tools1 directory to make sure you have the latest |
 |       |                                  | content. Don't worry about above git commands. We'll start git in next class. Please start with git notebook.                                         |
-|       |                                  | *Jupyter notebook pitfall* - to be added                                                                                                              |
+|       |                                  | [[https://www.youtube.com/watch?v=7jiPeIFXb6U][I don't like notebooks.- Joel Grus]]                                                                                                                    |
 |-------+----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------|
 |-------+----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------|
 |       |                                  |                                                                                                                                                       |
