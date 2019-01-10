@@ -163,7 +163,7 @@ I will go over basic of python and jupyter notebook.
 - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/jupyter_notebook_lab_into.ipynb][Jupyter introduction]]
 ** Jan 9
 - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/datascience.ipynb][datascience introduction]]
-  
+- [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/git_tool_part1.ipynb][git tool introduction]] 
 * Homeworks
 *No late hw will be accepted*
 
