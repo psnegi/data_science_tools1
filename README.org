@@ -162,7 +162,7 @@ I will go over basic of python and jupyter notebook.
 ** Jan 7
 - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/jupyter_notebook_lab_into.ipynb][Jupyter introduction]]
 ** Jan 9
-- [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/datascience.ipynb][datascience introduction]]
+- [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/datascience.ipynb][data science introduction]]
 - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/git_tool_part1.ipynb][git tool introduction]] 
 * Homeworks
 *No late hw will be accepted*
@@ -174,13 +174,23 @@ I will go over basic of python and jupyter notebook.
 
 * Course Activity
 
-| Date  | Reading/Coding Assignments               | class activity                                 |
-|-------+------------------------------------------+------------------------------------------------|
-| 7 Jan | Install jupyter environment              | Mitchell covered [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/jupyter_notebook_lab_into.ipynb][Jupyter introduction notebook]] |
-|       |                                          | also helped with installation                  |
-|-------+------------------------------------------+------------------------------------------------|
-|       | [[https://realpython.com/python-virtual-environments-a-primer/][Python Virtual Environments]]              |                                                |
-| 9 Jan | Resources [[http://try.github.io/][to learn git]]                   |                                                |
-|       | We'll also go over [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/datascience.ipynb][data science notebook]] |                                                |
-|-------+------------------------------------------+------------------------------------------------|
-|       |                                          |                                                |
+| Date  | Reading/Coding Assignments       | class activity                                                                                                                                          |
+|-------+----------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 7 Jan | Install jupyter environment      | Mitchell covered [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/jupyter_notebook_lab_into.ipynb][Jupyter intrsoduction notebook]]                                                                                                         |
+|       |                                  | also helped with installation                                                                                                                           |
+|-------+----------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-------+----------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       | [[https://realpython.com/python-virtual-environments-a-primer/][Python Virtual Environments]]      | Covered [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/jupyter_notebook_lab_into.ipynb][jupyter]] introduction and [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/datascience.ipynb][data science]] notebook.                                                                                                 |
+| 9 Jan | Resources [[http://try.github.io/][to learn git]]           | It may not be time consuming to wait for notebook to get started via binder every time.                                                                 |
+|       | We'll also go over [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/datascience.ipynb][data science ]] | Go to the folder for this course in your computer and run *git clone https://github.com/psnegi/data_science_tools1.git*.                                |
+|       |                                  | Run command **ls**. You should see data_science_tools1 folder. *Activate your virtual environment*.                                                     |
+|       |                                  | Navigate to course directory using *cd data_science_tools1*. change to notebook directory using command *cd notebooks*.                                 |
+|       |                                  | Now run *jupyter notebook*. You should see all the notebooks in a browser window. Click on the notebook you want to run.                                |
+|       |                                  |                                                                                                                                                         |
+|       |                                  | To run a cell in the notebook press *alt+enter or ctr+enter*.                                                                                           |
+|       |                                  | Note that whenever a new content is posted, you must run */git pull origin master/* from data_science_tools1 directory to make sure you have the latest |
+|       |                                  | content. Don't worry about above git commands. We'll start git in next class. Please start with git notebook.                                           |
+|       |                                  | **Jupyter notebook pitfall** - to be added                                                                                                              |
+|-------+----------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-------+----------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       |                                  |                                                                                                                                                         |
