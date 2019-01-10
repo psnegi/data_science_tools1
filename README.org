@@ -190,7 +190,7 @@ I will go over basic of python and jupyter notebook.
 |       |                                  | To run a cell in the notebook press *alt+enter or ctr+enter*.                                                                                         |
 |       |                                  | Note that whenever a new content is posted, you must run *git pull origin master* from data_science_tools1 directory to make sure you have the latest |
 |       |                                  | content. Don't worry about above git commands. We'll start git in next class. Please start with git notebook.                                         |
-|       |                                  | [[https://www.youtube.com/watch?v=7jiPeIFXb6U][I don't like notebooks.- Joel Grus]]                                                                                                                    |
+|       |                                  | [[https://www.youtube.com/watch?v=7jiPeIFXb6U][I don't like notebooks.- Joel Grus]]  video provide by Laura Atkinson                                                                                   |
 |-------+----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------|
 |-------+----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------|
 |       |                                  |                                                                                                                                                       |
