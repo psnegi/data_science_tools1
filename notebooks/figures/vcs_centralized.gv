@@ -1,0 +1,6 @@
+digraph G {
+  "centralized repository" -> "developer 1 checkout files ";
+  "centralized repository" -> "developer 2 checkout files";
+  "centralized repository" -> "developer 3 checkout files";
+  "centralized repository" [color=lightblue, style=filled];
+}

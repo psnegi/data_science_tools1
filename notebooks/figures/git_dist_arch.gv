@@ -1,0 +1,6 @@
+digraph G {
+  "remote repository" -> "developer 1 local repository";
+  "remote repository" -> "developer 2 local repository 2";
+  "remote repository" -> "developer 3 local repository";
+  "remote repository"[color=lightblue, style=filled];
+}
