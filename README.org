@@ -2,9 +2,9 @@
   - Course: Data Science Project 1 COMP-4447-1
   - Class time: M, Wed  07:00 PM -  08:50 PM  |Engineering & Computer Science | Room 410
   - Instructor: /Pooran Singh Negi, pooran.negi@du.edu/ [[https://sites.google.com/site/poorannegi/][webpage]]
-  - GTA: Mitchell Wright
   - Office: 470
   - Office Hours: Tue, Thu,  2.00 p.m. - 4.00 p.m. Email for 1-on-1 help.
+  - GTA: Mitchell Wright, GTA office hours ECS 126, Mon 4-6 p.m, Fri 3-5 p.m
    
 ** Books 
    - [[https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/ref=sr_1_2?s=books&ie=UTF8&qid=1522206082&sr=1-2&keywords=pandas][Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 2nd Edition]]  by Wes McKinney. It is available online from [[https://library.du.edu/][library]]
