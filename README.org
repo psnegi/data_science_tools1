@@ -166,6 +166,7 @@ I will go over basic of python and jupyter notebook.
 ** Jan 14
 - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/git_tool_part1.ipynb][git tool introduction]] 
 ** Jan 16
+  - [[./notebooks/git_tool_part2.ipynb][git tool part 2]]
 * Homeworks
 *No late hw will be accepted*
 
@@ -207,5 +208,5 @@ I will go over basic of python and jupyter notebook.
 |        |                                  | I use emacs but use any editor you like for coding python. [[https://atom.io/][ATOM]] is good choice.                                                                       |
 |--------+----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------|
 |--------+----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 16 Jan | Will work on [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/git_tool_part2.ipynb][git tool part 2]]     |                                                                                                                                                       |
 |        |                                  |                                                                                                                                                       |
-
