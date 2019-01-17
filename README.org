@@ -174,7 +174,7 @@ I will go over basic of python and jupyter notebook.
 | HW no | desciption and link                  |                            |
 |       |                                      | Due date                   |
 |-------+--------------------------------------+----------------------------|
-|     1 | Complete questions in [[./hws/HW1.ipynb][this notebooks]] | Friday 18 th Jan 11.59 p.m |
+|     1 | Complete questions in [[./hws/HW1.ipynb][this notebooks]] | Monday 21 th Jan 11.59 p.m |
 |       |                                      |                            |
 |-------+--------------------------------------+----------------------------|
 |       |                                      |                            |
@@ -208,5 +208,10 @@ I will go over basic of python and jupyter notebook.
 |        |                                  | I use emacs but use any editor you like for coding python. [[https://atom.io/][ATOM]] is good choice.                                                                       |
 |--------+----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------|
 |--------+----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 16 Jan | Will work on [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/git_tool_part2.ipynb][git tool part 2]]     |                                                                                                                                                       |
+| 16 Jan | Will work on [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/git_tool_part2.ipynb][git tool part 2]]     | Covered work flow in a team, when to push a branch to the remote(you don't have integration setup, other team members wants to                        |
+|        |                                  | look at the feature code for review etc.), merge conflict, tagging. Started with "forget to work on a feature branch".                                |
+|        |                                  |                                                                                                                                                       |
+|--------+----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------|
+|        |                                  |                                                                                                                                                       |
+|--------+----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------|
 |        |                                  |                                                                                                                                                       |
