@@ -177,6 +177,7 @@ I will go over basic of python and jupyter notebook.
 |     1 | Complete questions in [[./hws/HW1.ipynb][this notebooks]] | Monday 21 th Jan 11.59 p.m |
 |       |                                      |                            |
 |-------+--------------------------------------+----------------------------|
+|     2 | Complete questions in [[./hws/HW2.ipynb][this]]  notebook | Friday 25 th Jan 11.59 p.m |
 |       |                                      |                            |
 
 * Course Activity
