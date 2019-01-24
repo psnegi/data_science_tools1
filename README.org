@@ -167,6 +167,8 @@ I will go over basic of python and jupyter notebook.
 - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/git_tool_part1.ipynb][git tool introduction]] 
 ** Jan 16
   - [[./notebooks/git_tool_part2.ipynb][git tool part 2]]
+** Jan 23
+   - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/Data_science_at_command_prompt.ipynb][Data science at command prompt]]
 * Homeworks
 *No late hw will be accepted*
 
@@ -213,6 +215,6 @@ I will go over basic of python and jupyter notebook.
 |        |                                  | look at the feature code for review etc.), merge conflict, tagging. Started with "forget to work on a feature branch".                                |
 |        |                                  |                                                                                                                                                       |
 |--------+----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------|
-|        |                                  |                                                                                                                                                       |
+| 23 Jan | [[./https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/Data_science_at_command_prompt.ipynb][data science at command prompt]]   |                                                                                                                                                       |
 |--------+----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------|
 |        |                                  |                                                                                                                                                       |
