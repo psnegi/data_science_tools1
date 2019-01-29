@@ -159,12 +159,13 @@ I will go over basic of python and jupyter notebook.
   - more to come
 
 ** How to get terminal in Notebook and nano editor building steps
- - go to https://github.com/adamj9431/notebook_xterm and follow the step to start a terminal in notebook
+ - Go to https://github.com/adamj9431/notebook_xterm and follow the step to start a terminal in notebook
+-  Go to the terminal and type following commands
  - wget https://www.nano-editor.org/dist/v3/nano-3.2.tar.xz
  - tar -xf nano-3.2.tar.xz 
- - cd for nano source * cd nano-3.2*
+ - cd for nano source *cd nano-3.2*
  - mkdir ~/.local/bin  
- - ./configure --prefix=$HOME/.local/bin
+ - ./configure \-\-prefix=$HOME/.local
  - make 
  - make install
  - you should be able to use *nano* editor in the terminal
