@@ -158,6 +158,16 @@ I will go over basic of python and jupyter notebook.
 *** data analysis tools in python
   - more to come
 
+** Nano building steps
+ - go to https://github.com/adamj9431/notebook_xterm
+ - wget https://www.nano-editor.org/dist/v3/nano-3.2.tar.xz
+ - tar -xf nano-3.2.tar.xz 
+ - cd for nano source * cd nano-3.2*
+ - mkdir ~/myapps  
+ - ./configure --prefix=$HOME/myapps
+ - make 
+ - make install
+ - run nano from myapps
 * Notebooks
 ** Jan 7
 - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/jupyter_notebook_lab_into.ipynb][Jupyter introduction]]
