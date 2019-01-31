@@ -172,6 +172,9 @@ I will go over basic of python and jupyter notebook.
 ** Jan 28
    - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/Data_science_at_command_prompt_awk_sed.ipynb][Data science at command prompt awk sed]]
    - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/Bash_shell_scripts.ipynb][Bash shell scripts]]
+** Jan 30
+  - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/numpy_basics.ipynb][numpy basics]]
+  -[[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/web_api.ipynb][ REST API for data retrieval]]   
 * Homeworks
 *No late hw will be accepted*
 
@@ -233,4 +236,4 @@ I will go over basic of python and jupyter notebook.
 | 28 Jan | Practice  posted notebooks         |                                                                                                                                                       |
 |        | See notebooks in notebooks section |                                                                                                                                                       |
 |--------+------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------|
-|        |                                    |                                                                                                                                                       |
+| 30 Jan | See notebooks in notebooks section |                                                                                                                                                       |
