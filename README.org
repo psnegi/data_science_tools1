@@ -178,20 +178,21 @@ I will go over basic of python and jupyter notebook.
 * Homeworks
 *No late hw will be accepted*
 
-|-------+----------------------------------------+----------------------------|
-| HW no | desciption and link                    |                            |
-|       |                                        | Due date                   |
-|-------+----------------------------------------+----------------------------|
-|     1 | Complete questions in [[./hws/HW1.ipynb][this notebooks]]   | Monday 21 th Jan 11.59 p.m |
-|       |                                        |                            |
-|-------+----------------------------------------+----------------------------|
-|     2 | Complete questions in [[./hws/HW2.ipynb][this]]  notebook   | Friday 25 th Jan 11.59 p.m |
-|       |                                        |                            |
-|-------+----------------------------------------+----------------------------|
-|     3 | Complete questions in [[./hws/HW3.ipynb][this]]    notebook | Thursday 31 Jan 11.59 p.m  |
-|       |                                        |                            |
-|-------+----------------------------------------+----------------------------|
-|       |                                        |                            |
+|-------+------------------------------------------+----------------------------|
+| HW no | desciption and link                      |                            |
+|       |                                          | Due date                   |
+|-------+------------------------------------------+----------------------------|
+|     1 | Complete questions in [[./hws/HW1.ipynb][this notebooks]]     | Monday 21 th Jan 11.59 p.m |
+|       |                                          |                            |
+|-------+------------------------------------------+----------------------------|
+|     2 | Complete questions in [[./hws/HW2.ipynb][this]]  notebook     | Friday 25 th Jan 11.59 p.m |
+|       |                                          |                            |
+|-------+------------------------------------------+----------------------------|
+|     3 | Complete questions in [[./hws/HW3.ipynb][this]]    notebook   | Thursday 31 Jan 11.59 p.m  |
+|       |                                          |                            |
+|-------+------------------------------------------+----------------------------|
+|     4 | Complete question in this [[./hws/calculate_basic_stats.sh][this bash file]] | Friday 8 th 11.59 p.m      |
+|       |                                          |                            |
 * Course Activity
 
 | Date   | Reading/Coding Assignments         | class activity                                                                                                                                                              |
