@@ -1,4 +1,5 @@
 backcall==0.1.0
+beautifulsoup4==4.7.1
 bleach==3.0.2
 cycler==0.10.0
 decorator==4.3.0
@@ -16,6 +17,7 @@ jupyter-client==5.2.4
 jupyter-console==6.0.0
 jupyter-core==4.4.0
 kiwisolver==1.0.1
+lxml==4.3.0
 MarkupSafe==1.1.0
 matplotlib==3.0.2
 mistune==0.8.4
@@ -44,6 +46,7 @@ scipy==1.2.0
 seaborn==0.9.0
 Send2Trash==1.5.0
 six==1.12.0
+soupsieve==1.7.3
 terminado==0.8.1
 testpath==0.4.2
 tornado==5.1.1
