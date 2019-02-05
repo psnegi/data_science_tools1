@@ -178,6 +178,7 @@ I will go over basic of python and jupyter notebook.
   - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/web_api.ipynb][ REST API for data retrieval]]   
 ** Feb 4
   - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/Web_Scrapping.ipynb][Web Scrapping]]
+  - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/Web_Scrapping_in_class.ipynb][Web Scrapping in class version]]
 * Homeworks
 *No late hw will be accepted*
 
@@ -246,6 +247,7 @@ I will go over basic of python and jupyter notebook.
 |        |                                    | Started with REST API. */Please install chrome/* so that we have same options to click when inspecting https messages.                                                      |
 |        |                                    |                                                                                                                                                                             |
 |--------+------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|        |                                    |                                                                                                                                                                             |
+|        | See 4 th feb notebooks             | Covered REST API. Will cover how to create REST API in tool2 using AWS api gateway and lambda function.                                                                     |
+| 4 Feb  | [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/Web_Scrapping_in_class.ipynb][Web Scrapping in class version]]     | Finished scrapping Fry electronics website for telescopes.                                                                                                                  |
 |--------+------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |        |                                    |                                                                                                                                                                             |
