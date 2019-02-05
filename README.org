@@ -3,7 +3,7 @@
   - Class time: M, Wed  07:00 PM -  08:50 PM  |Engineering & Computer Science | Room 410
   - Instructor: /Pooran Singh Negi, pooran.negi@du.edu/ [[https://sites.google.com/site/poorannegi/][webpage]]
   - Office: 470
-  - Office Hours: Tue, Thu,  2.00 p.m. - 4.00 p.m. Email for 1-on-1 help.
+  - Office Hours: Tue, Thu,  3.30 p.m. - 5.30 p.m. Email for 1-on-1 help.
   - GTA: Mitchell Wright, GTA office hours ECS 126, Mon 4-6 p.m, Fri 3-5 p.m
    
 ** Books 
@@ -182,21 +182,23 @@ I will go over basic of python and jupyter notebook.
 * Homeworks
 *No late hw will be accepted*
 
-|-------+------------------------------------------+----------------------------|
-| HW no | desciption and link                      |                            |
-|       |                                          | Due date                   |
-|-------+------------------------------------------+----------------------------|
-|     1 | Complete questions in [[./hws/HW1.ipynb][this notebooks]]     | Monday 21 th Jan 11.59 p.m |
-|       |                                          |                            |
-|-------+------------------------------------------+----------------------------|
-|     2 | Complete questions in [[./hws/HW2.ipynb][this]]  notebook     | Friday 25 th Jan 11.59 p.m |
-|       |                                          |                            |
-|-------+------------------------------------------+----------------------------|
-|     3 | Complete questions in [[./hws/HW3.ipynb][this]]    notebook   | Thursday 31 Jan 11.59 p.m  |
-|       |                                          |                            |
-|-------+------------------------------------------+----------------------------|
-|     4 | Complete question in this [[./hws/calculate_basic_stats.sh][this bash file]] | Friday 8 th 11.59 p.m      |
-|       |                                          |                            |
+|-------+------------------------------------------+----------------------------+----------|
+| HW no | desciption and link                      |                            | solution |
+|       |                                          | Due date                   |          |
+|-------+------------------------------------------+----------------------------+----------|
+|     1 | Complete questions in [[./hws/HW1.ipynb][this notebooks]]     | Monday 21 th Jan 11.59 p.m | [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/HW1_sol.ipynb][HW1 sol]]  |
+|       |                                          |                            |          |
+|-------+------------------------------------------+----------------------------+----------|
+|     2 | Complete questions in [[./hws/HW2.ipynb][this]]  notebook     | Friday 25 th Jan 11.59 p.m | [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/HW2_solutions.ipynb][HW2 sol]]  |
+|       |                                          |                            |          |
+|-------+------------------------------------------+----------------------------+----------|
+|     3 | Complete questions in [[./hws/HW3.ipynb][this]]    notebook   | Thursday 31 Jan 11.59 p.m  | [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/HW3_solution.ipynb][HW3 sol]]  |
+|       |                                          |                            |          |
+|-------+------------------------------------------+----------------------------+----------|
+|     4 | Complete question in this [[./hws/calculate_basic_stats.sh][this bash file]] | Friday 8 th Feb 11.59 p.m  |          |
+|       |                                          |                            |          |
+|-------+------------------------------------------+----------------------------+----------|
+|     5 |                                          |                            |          |
 * Course Activity
 
 | Date   | Reading/Coding Assignments         | class activity                                                                                                                                                              |
