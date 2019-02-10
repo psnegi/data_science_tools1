@@ -200,7 +200,9 @@ I will go over basic of python and jupyter notebook.
 |     4 | Complete question in this [[./hws/calculate_basic_stats.sh][this bash file]] | Friday 8 th Feb 11.59 p.m  |          |
 |       |                                          |                            |          |
 |-------+------------------------------------------+----------------------------+----------|
-|     5 |                                          |                            |          |
+|     5 | Complete questions in [[./hws/hw5_twitter_api.ipynb][this]]  notebook     | Wednesday 11 a.m           |          |
+|-------+------------------------------------------+----------------------------+----------|
+|       |                                          |                            |          |
 * Course Activity
 
 | Date   | Reading/Coding Assignments         | class activity                                                                                                                                                              |
