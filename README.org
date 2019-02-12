@@ -202,7 +202,7 @@ I will go over basic of python and jupyter notebook.
 |     4 | Complete question in this [[./hws/calculate_basic_stats.sh][this bash file]] | Friday 8 th Feb 11.59 p.m  |          |
 |       |                                          |                            |          |
 |-------+------------------------------------------+----------------------------+----------|
-|     5 | Complete questions in [[./hws/hw5_twitter_api.ipynb][this]]  notebook     | Wednesday 13 Feb,  11 a.m  |          |
+|     5 | Complete questions in [[./hws/hw5_twitter_api.ipynb][this]]  notebook     | Friday 15 Feb,  11.59 p.m  |          |
 |-------+------------------------------------------+----------------------------+----------|
 |       |                                          |                            |          |
 * Course Activity
@@ -257,5 +257,9 @@ I will go over basic of python and jupyter notebook.
 |--------+------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |        | See 4 th feb notebooks             | Covered REST API. Will cover how to create REST API in tool2 using AWS api gateway and lambda function.                                                                     |
 | 4 Feb  | [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/Web_Scrapping_in_class.ipynb][Web Scrapping in class version]]     | Finished scrapping Fry electronics website for telescopes.                                                                                                                  |
+|--------+------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 6 Feb  | Pandas basic see notebook section  |                                                                                                                                                                             |
+|--------+------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 11 Feb | Data ingestion and cleaning        | Covered basic data ingestion API and cleanup functionality.  see pd.qcut Quantile-based discretization too.                                                                 |
 |--------+------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |        |                                    |                                                                                                                                                                             |
