@@ -181,6 +181,8 @@ I will go over basic of python and jupyter notebook.
   - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/Web_Scrapping_in_class.ipynb][Web Scrapping in class version]]
 ** Feb 6
    - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/pandas_introduction.ipynb][pandas]]
+** Feb 11
+   - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/pandas_data_loading_storage_cleanup.ipynb][data ingestion and cleanup]]
 * Homeworks
 *No late hw will be accepted*
 

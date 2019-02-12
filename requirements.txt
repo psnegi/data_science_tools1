@@ -1,10 +1,13 @@
 backcall==0.1.0
 beautifulsoup4==4.7.1
 bleach==3.0.2
+certifi==2018.11.29
+chardet==3.0.4
 cycler==0.10.0
 decorator==4.3.0
 defusedxml==0.5.0
 entrypoints==0.2.3
+idna==2.8
 ipykernel==5.1.0
 ipython==7.2.0
 ipython-genutils==0.2.0
@@ -24,6 +27,7 @@ mistune==0.8.4
 nbconvert==5.4.0
 nbformat==4.4.0
 notebook==5.7.4
+numexpr==2.6.9
 numpy==1.15.4
 pandas==0.23.4
 pandocfilters==1.4.2
@@ -31,6 +35,7 @@ parso==0.3.1
 pexpect==4.6.0
 pickleshare==0.7.5
 Pillow==5.4.1
+pkg-resources==0.0.0
 prometheus-client==0.5.0
 prompt-toolkit==2.0.7
 ptyprocess==0.6.0
@@ -40,6 +45,7 @@ python-dateutil==2.7.5
 pytz==2018.7
 pyzmq==17.1.2
 qtconsole==4.4.3
+requests==2.21.0
 rise==5.4.1
 scikit-learn==0.20.2
 scipy==1.2.0
@@ -47,10 +53,12 @@ seaborn==0.9.0
 Send2Trash==1.5.0
 six==1.12.0
 soupsieve==1.7.3
+tables==3.4.4
 terminado==0.8.1
 testpath==0.4.2
 tornado==5.1.1
 traitlets==4.3.2
+urllib3==1.24.1
 wcwidth==0.1.7
 webencodings==0.5.1
 widgetsnbextension==3.4.2
