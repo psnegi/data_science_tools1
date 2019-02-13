@@ -199,7 +199,7 @@ I will go over basic of python and jupyter notebook.
 |     3 | Complete questions in [[./hws/HW3.ipynb][this]]    notebook   | Thursday 31 Jan 11.59 p.m  | [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=solutions/HW3_solution.ipynb][HW3 sol]]  |
 |       |                                          |                            |          |
 |-------+------------------------------------------+----------------------------+----------|
-|     4 | Complete question in this [[./hws/calculate_basic_stats.sh][this bash file]] | Friday 8 th Feb 11.59 p.m  |          |
+|     4 | Complete question in this [[./hws/calculate_basic_stats.sh][this bash file]] | Friday 8 th Feb 11.59 p.m  | [[./solutions/calculate_basic_stats_sol.sh][HW4 key]]  |
 |       |                                          |                            |          |
 |-------+------------------------------------------+----------------------------+----------|
 |     5 | Complete questions in [[./hws/hw5_twitter_api.ipynb][this]]  notebook     | Friday 15 Feb,  11.59 p.m  |          |
