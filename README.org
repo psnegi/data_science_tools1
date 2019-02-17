@@ -204,7 +204,11 @@ I will go over basic of python and jupyter notebook.
 |-------+------------------------------------------+----------------------------+----------|
 |     5 | Complete questions in [[./hws/hw5_twitter_api.ipynb][this]]  notebook     | Friday 15 Feb,  11.59 p.m  |          |
 |-------+------------------------------------------+----------------------------+----------|
+|     6 | Complete questions in [[./hws/hw6_webscrapping.ipynb][this]] notebook      | Friday  22 Feb, 11.59 p.m  |          |
+|-------+------------------------------------------+----------------------------+----------|
 |       |                                          |                            |          |
+
+
 * Midterm
   - [[./notebooks/data_science_tool1_midterms.ipynb][midterm]]
 * Course Activity
