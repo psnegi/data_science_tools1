@@ -183,6 +183,9 @@ I will go over basic of python and jupyter notebook.
    - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/pandas_introduction.ipynb][pandas]]
 ** Feb 11
    - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/pandas_data_loading_storage_cleanup.ipynb][data ingestion and cleanup]]
+** 18 feb
+   - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/data_cleanup_string_etc.ipynb][cleanup string]]
+   - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/data_wrangling_join_combine_reshape.ipynb][wrangling reshape]]
 * Homeworks
 *No late hw will be accepted*
 
