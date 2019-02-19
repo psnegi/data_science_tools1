@@ -183,9 +183,12 @@ I will go over basic of python and jupyter notebook.
    - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/pandas_introduction.ipynb][pandas]]
 ** Feb 11
    - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/pandas_data_loading_storage_cleanup.ipynb][data ingestion and cleanup]]
+     + [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/pandas_data_loading_storage_cleanup_inclass.ipynb][ingestion in class]]
 ** 18 feb
    - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/data_cleanup_string_etc.ipynb][cleanup string]]
+     + [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/data_cleanup_string_etc_inclass.ipynb][cleanup in class version]]
    - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/data_wrangling_join_combine_reshape.ipynb][wrangling reshape]]
+     + [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/data_wrangling_join_combine_reshape_inclass.ipynb][wrangling inclass]]
 * Homeworks
 *No late hw will be accepted*
 
@@ -270,5 +273,9 @@ I will go over basic of python and jupyter notebook.
 | 6 Feb  | Pandas basic see notebook section  |                                                                                                                                                                             |
 |--------+------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 11 Feb | Data ingestion and cleaning        | Covered basic data ingestion API and cleanup functionality.  see pd.qcut Quantile-based discretization too.                                                                 |
+|--------+------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 13 Feb |                                    | in class midterm                                                                                                                                                            |
+|--------+------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 18 Feb |                                    | python re library and data wrangling                                                                                                                                        |
 |--------+------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |        |                                    |                                                                                                                                                                             |
