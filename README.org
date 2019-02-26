@@ -192,6 +192,8 @@ I will go over basic of python and jupyter notebook.
      + [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/data_wrangling_join_combine_reshape_inclass.ipynb][wrangling inclass]]
 ** 20 feb
    - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/nlp_20_feb_2019.ipynb][nlp]]
+** 25 th Feb
+   - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/nlp_25_feb_cleaning.ipynb][more nlp cleaning]]
 * Homeworks
 *No late hw will be accepted*
 
