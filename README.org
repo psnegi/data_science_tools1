@@ -63,7 +63,7 @@ You will be required to  submit a final project report in the jupyter notebook f
 |--------------------------------------------------------------------------------------------------------+-----|
 | Comprehensive final 13 March. **We'll use best of your midterm or final marks**                        |     |
 |--------------------------------------------------------------------------------------------------------+-----|
-| final project presentation, 15 minutes, 18 March in class                                              | 15% |
+| final project presentation, 10 minutes, 18 March in class                                              | 15% |
 |--------------------------------------------------------------------------------------------------------+-----|
 | final project report, due 18 March, please refer to above final report format for submission guideline | 20% |
 |--------------------------------------------------------------------------------------------------------+-----|
