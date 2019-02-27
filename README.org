@@ -17,6 +17,8 @@
 ** Optional material online
   -  [[https://www.w3schools.com/][w3school]] for python, html, sql
   -  [[https://pypi.org/project/pythonwarrior/][python warrior]]
+  - [[https://regex101.com/][regular expression 101]]
+  - [[https://www.debuggex.com/][debuggex]]
 * Course Description
 It is recommended that you consult this github page often for material related to this course. You should check your e-mail periodically for messages.
 Assignments will be upload here and in the [[https://canvas.du.edu/login/ldap][canvas]].
