@@ -61,7 +61,7 @@ You will be required to  submit a final project report in the jupyter notebook f
 |--------------------------------------------------------------------------------------------------------+-----|
 | midterm, 13 Feb in class                                                                               | 15% |
 |--------------------------------------------------------------------------------------------------------+-----|
-| Comprehensive final 13 March. **We'll use best of your midterm or final marks**                        |     |
+| Comprehensive final 13 March. *We'll use best of your midterm or final marks*                          |     |
 |--------------------------------------------------------------------------------------------------------+-----|
 | final project presentation, 10 minutes, 18 March in class                                              | 15% |
 |--------------------------------------------------------------------------------------------------------+-----|
@@ -290,5 +290,5 @@ I will go over basic of python and jupyter notebook.
 | 20 th Feb |                                    | Basic on NLP and normalization of text data                                                                                                                                 |
 |-----------+------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 25 th Feb |                                    | Text clean up, contraction, using wornet for synonyms, antonyms, hypernyms, hyponyms and edit distance                                                                      |
-|           |                                    | **There will be a comprehensive final in class exam. We'll use best your midterm or final marks(15\% weight).**                                                             |
+|           |                                    | *There will be a comprehensive final in class exam. We'll use best your midterm or final marks(15% weight).*                                                             |
 |           |                                    |                                                                                                                                                                             |
