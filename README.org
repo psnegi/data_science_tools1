@@ -74,7 +74,7 @@ You will be required to  submit a final project report in the jupyter notebook f
 grade range [('A', >=93), ('A_minus', >=89), ('B_plus', >=85), ('B', >=81), ('B_minus', >=77), ('C_plus', >=73), ('C', >=69), ('C_minus', >=65),
  ('D_plus', >61), ('D', >=57), ('D_minus', >=53),  ('F', < 53)])
 
-
+ 
 * Honor code
 All members of the University of Denver community are expected to uphold the values of Integrity, Respect, and Responsibility.
 These values embody the standards of conduct for students, faculty, staff, and administrators as members of the University community. 
