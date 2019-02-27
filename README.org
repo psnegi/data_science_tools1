@@ -61,9 +61,11 @@ You will be required to  submit a final project report in the jupyter notebook f
 |--------------------------------------------------------------------------------------------------------+-----|
 | midterm, 13 Feb in class                                                                               | 15% |
 |--------------------------------------------------------------------------------------------------------+-----|
-| final project presentation, 15 minutes, 13 March in class                                              | 15% |
+| Comprehensive final 13 March. **We'll use best of your midterm or final marks**                        |     |
 |--------------------------------------------------------------------------------------------------------+-----|
-| final project report, due 15 March, please refer to above final report format for submission guideline | 20% |
+| final project presentation, 15 minutes, 18 March in class                                              | 15% |
+|--------------------------------------------------------------------------------------------------------+-----|
+| final project report, due 18 March, please refer to above final report format for submission guideline | 20% |
 |--------------------------------------------------------------------------------------------------------+-----|
 |                                                                                                        |     |
 
@@ -194,6 +196,7 @@ I will go over basic of python and jupyter notebook.
    - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/nlp_20_feb_2019.ipynb][nlp]]
 ** 25 th Feb
    - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/nlp_25_feb_cleaning.ipynb][more nlp cleaning]]
+   - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/nlp_25_feb_cleaning_in_class.ipynb][more nlp cleaning in class]]  
 * Homeworks
 *No late hw will be accepted*
 
@@ -286,4 +289,6 @@ I will go over basic of python and jupyter notebook.
 |-----------+------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 20 th Feb |                                    | Basic on NLP and normalization of text data                                                                                                                                 |
 |-----------+------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 25 th Feb |                                    | Text clean up, contraction, using wornet for synonyms, antonyms, hypernyms, hyponyms and edit distance                                                                      |
+|           |                                    | **There will be a comprehensive final in class exam. We'll use best your midterm or final marks(15\% weight).**                                                             |
 |           |                                    |                                                                                                                                                                             |
