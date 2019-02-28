@@ -199,6 +199,8 @@ I will go over basic of python and jupyter notebook.
 ** 25 th Feb
    - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/nlp_25_feb_cleaning.ipynb][more nlp cleaning]]
    - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/nlp_25_feb_cleaning_in_class.ipynb][more nlp cleaning in class]]  
+** 27 th Feb
+   - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/pdf_handling_and_pandas_group.ipynb][pdf handling and pandas group]]
 * Homeworks
 *No late hw will be accepted*
 
