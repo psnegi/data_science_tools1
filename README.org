@@ -201,6 +201,7 @@ I will go over basic of python and jupyter notebook.
    - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/nlp_25_feb_cleaning_in_class.ipynb][more nlp cleaning in class]]  
 ** 27 th Feb
    - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/pdf_handling_and_pandas_group.ipynb][pdf handling and pandas group]]
+   - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/pdf_handling_and_pandas_group_in_class.ipynb][pdf handling and pandas group in class]]
 * Homeworks
 *No late hw will be accepted*
 
@@ -294,5 +295,17 @@ I will go over basic of python and jupyter notebook.
 | 20 th Feb |                                    | Basic on NLP and normalization of text data                                                                                                                                 |
 |-----------+------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 25 th Feb |                                    | Text clean up, contraction, using wornet for synonyms, antonyms, hypernyms, hyponyms and edit distance                                                                      |
-|           |                                    | *There will be a comprehensive final in class exam. We'll use best your midterm or final marks(15% weight).*                                                             |
+|           |                                    | *There will be a comprehensive final in class exam. We'll use best your midterm or final marks(15% weight).*                                                                |
+|           |                                    |                                                                                                                                                                             |
+|-----------+------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|           |                                    |                                                                                                                                                                             |
+|           |                                    |                                                                                                                                                                             |
+|-----------+------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 27 th Feb |                                    | Extracting text and tables from pdf files. Concept of split-apply and combine. Pandas group by.                                                                             |
+|           |                                    | If you had issue installing pdf miner in Mac, It can Java related.                                                                                                          |
+|           |                                    | Install JDK using this link https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html                                                           |
+|           |                                    | (provide by Chris Haddad)                                                                                                                                                   |
+|-----------+------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|           |                                    |                                                                                                                                                                             |
+|-----------+------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |           |                                    |                                                                                                                                                                             |
