@@ -227,8 +227,9 @@ I will go over basic of python and jupyter notebook.
 |-------+------------------------------------------+-------------------------------+----------|
 |     7 | Complete question in [[./hws/hw7_movie_analysis_using_pandas.ipynb][this]]  notebook      | Friday  1 st March 11.59 p.m. |          |
 |-------+------------------------------------------+-------------------------------+----------|
+|     8 | Complete the hw notebook                 | Sunday 10 th March 11.59 p.m  |          |
+|-------+------------------------------------------+-------------------------------+----------|
 |       |                                          |                               |          |
-
 * Midterm
   - [[./notebooks/data_science_tool1_midterms.ipynb][midterm]]
 * Course Activity
