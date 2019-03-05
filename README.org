@@ -202,6 +202,10 @@ I will go over basic of python and jupyter notebook.
 ** 27 th Feb
    - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/pdf_handling_and_pandas_group.ipynb][pdf handling and pandas group]]
    - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/pdf_handling_and_pandas_group_in_class.ipynb][pdf handling and pandas group in class]]
+** 4 th March
+     - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/visulaization_in_python.ipynb][visulaization in python]]
+
+
 * Homeworks
 *No late hw will be accepted*
 
