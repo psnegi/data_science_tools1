@@ -205,7 +205,8 @@ I will go over basic of python and jupyter notebook.
 ** 4 th March
      - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/visulaization_in_python.ipynb][visualization in python]]
      - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/visulaization_in_python_in_class.ipynb][visualization in python in class version]]
-
+** 6 March
+     - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/python_visualization_seaborn.ipynb][visualization in python seaborn and geo map]]  
 * Homeworks
 *No late hw will be accepted*
 
