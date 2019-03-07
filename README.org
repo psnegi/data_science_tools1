@@ -207,6 +207,7 @@ I will go over basic of python and jupyter notebook.
      - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/visulaization_in_python_in_class.ipynb][visualization in python in class version]]
 ** 6 March
      - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/python_visualization_seaborn.ipynb][visualization in python seaborn and geo map]]  
+     - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/python_visualization_seaborn_in_class.ipynb][visualization in python seaborn and geo map in class]]  
 * Homeworks
 *No late hw will be accepted*
 
@@ -316,5 +317,9 @@ I will go over basic of python and jupyter notebook.
 |------------+------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 4 th march |                                    | Covered matplotlib theory, hierarchical organization(tree structure) of figure components.                                                                                  |
 |            |                                    | Started seaborn.                                                                                                                                                            |
+|------------+------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 6 th March |                                    | Seaborn when some variables are categorical, scatter , swarm(concept of hue, jitter). For big data plotting statistical summary                                             |
+|            |                                    | *distplot, jointplot, pairplot* boxplot, bar plot(uni/bi variate). Linear relationships using *regplot*.                                                                    |
+|            |                                    | Touched upon geo plot(*choropleth map*) using folium.                                                                                                                       |
 |------------+------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |            |                                    |                                                                                                                                                                             |
