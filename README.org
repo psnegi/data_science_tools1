@@ -23,7 +23,7 @@
 It is recommended that you consult this github page often for material related to this course. You should check your e-mail periodically for messages.
 Assignments will be upload here and in the [[https://canvas.du.edu/login/ldap][canvas]].
 
-The main objective of data science tools 1 is to learn various tools to perform data analysis. Focus in tool1 is data cleanup, summarization ,and visualization.
+The main objective of data science tools 1 is to learn various tools to perform data analysis. The focus in tools 1 is data cleanup, summarization, and visualization.
 It is more like a hacking skill set but our primary focus will be on the scientific python  and Linux ecosystem. We'll use [[http://jupyter.org/][jupyter notebook/lab]] for in the class and homeworks. This should make our learning interactive.
 
 For the final project, students will work through  individual or team projects applying course-work
@@ -31,7 +31,7 @@ to the  data lifecycle within a particular domain. The focus will also be
 on best data science/software engineering practices and reproducible work.
 
 *Please select  a project by January 20th  as per your preference. You are allowed to have a group of 2 to 3 students but project work must justify team count.* There will be a homework asking about the detail of your final project. We'll provide feedback about feasibility of the final project.
-*Final projects, Can be based on initial capstone work?. Please let us know if this is the case. We need to go over details.*
+*Final project, can be based on initial capstone work?. Please let us know if this is the case. We need to go over details.*
 
 ** Syllabus
 *This syllabus is subject to change at the discretion of the instructor*.
@@ -39,7 +39,7 @@ on best data science/software engineering practices and reproducible work.
 - Data science and EDA.
 - Git tools work flow.
 - Data science at command prompt. Linux command line, bash,  basic awk and sed.
-- Data collection and ingestion(web scrapping and reading datasets + pandas).
+- Data collection and ingestion(web scraping and reading datasets + pandas).
 - Data cleanup and imputation + Pandas.
 - Data summarization and visualization+ panda(groupby, apply, aggregate etc).
 - Go over some some topics as per students demands.
@@ -100,8 +100,8 @@ by the end of first week of classes.* Visit [[https://www.du.edu/studentlife/dis
 Please see [[https://www.du.edu/registrar/calendar/][registrar calender]] for Academic deadlines. *We'll strictly follow the deadlines.*
 
 * Data set for Projects
-  - You can collect the dataset for you project.
-    + Web scrapping, web API (for natural language processing one can use the New York Times, twitter etc.)
+  - You can collect the dataset for your project.
+    + Web scraping, web API (for natural language processing one can use the New York Times, twitter etc.)
   - I am looking around to find noisy dataset for practice.
     + See [[https://makingnoiseandhearingthings.com/2018/04/19/datasets-for-data-cleaning-practice/][Datasets for data cleaning practice]] by Rachael Tatman
   - [[https://www.kdnuggets.com/datasets/index.html][Datasets for Data Mining and Data Science]]
@@ -139,10 +139,10 @@ I am using python 3.5.2. Hopefully any version of python 3 should work.
 - Using command line(*cd command*), go to the folder where you want to keep python file, notebooks related to this course.
 - run **python3 -m venv /path/to/new/virtual/environment**
   + e.g. I ran *python3 -m venv dst1_env*
-- To activate you environment run *source /path/to/new/virtual/environment/bin/activate*
+- To activate your environment run *source /path/to/new/virtual/environment/bin/activate*
   + e.g From this course directory I run, *source dst1_env/bin/activate*
 
-- run *python3 -m pip install -- upgrade pip*. Note that there are 2 dash in upgrade option.
+- run *python3 -m pip install -- upgrade pip*. Note that there are 2 dashes in upgrade option.
 - run *wget https://raw.githubusercontent.com/psnegi/data_science_tools1/master/requirements.txt*
 - run *pip install -r requirements.txt*
 - run *jupyter notebook* or *jupyter lab*. 
@@ -182,8 +182,8 @@ I will go over basic of python and jupyter notebook.
 
   - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/web_api.ipynb][ REST API for data retrieval]]   
 ** Feb 4
-  - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/Web_Scrapping.ipynb][Web Scrapping]]
-  - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/Web_Scrapping_in_class.ipynb][Web Scrapping in class version]]
+  - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/Web_Scrapping.ipynb][Web Scraping]]
+  - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/Web_Scrapping_in_class.ipynb][Web Scraping in class version]]
 ** Feb 6
    - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/pandas_introduction.ipynb][pandas]]
 ** Feb 11
@@ -211,31 +211,31 @@ I will go over basic of python and jupyter notebook.
 * Homeworks
 *No late hw will be accepted*
 
-|-------+------------------------------------------+-------------------------------+----------|
-| HW no | desciption and link                      |                               | solution |
-|       |                                          | Due date                      |          |
-|-------+------------------------------------------+-------------------------------+----------|
-|     1 | Complete questions in [[./hws/HW1.ipynb][this notebooks]]     | Monday 21 th Jan 11.59 p.m    | [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=solutions/HW1_sol.ipynb][HW1 sol]]  |
-|       |                                          |                               |          |
-|-------+------------------------------------------+-------------------------------+----------|
-|     2 | Complete questions in [[./hws/HW2.ipynb][this]]  notebook     | Friday 25 th Jan 11.59 p.m    | [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=solutions/HW2_solutions.ipynb][HW2 sol]]  |
-|       |                                          |                               |          |
-|-------+------------------------------------------+-------------------------------+----------|
-|     3 | Complete questions in [[./hws/HW3.ipynb][this]]    notebook   | Thursday 31 Jan 11.59 p.m     | [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=solutions/HW3_solution.ipynb][HW3 sol]]  |
-|       |                                          |                               |          |
-|-------+------------------------------------------+-------------------------------+----------|
-|     4 | Complete question in this [[./hws/calculate_basic_stats.sh][this bash file]] | Friday 8 th Feb 11.59 p.m     | [[./solutions/calculate_basic_stats_sol.sh][HW4 key]]  |
-|       |                                          |                               |          |
-|-------+------------------------------------------+-------------------------------+----------|
-|     5 | Complete questions in [[./hws/hw5_twitter_api.ipynb][this]]  notebook     | Friday 15 Feb,  11.59 p.m     |          |
-|-------+------------------------------------------+-------------------------------+----------|
-|     6 | Complete questions in [[./hws/hw6_webscrapping.ipynb][this]] notebook      | Friday  23 Feb, 11.59 p.m     |          |
-|-------+------------------------------------------+-------------------------------+----------|
-|     7 | Complete question in [[./hws/hw7_movie_analysis_using_pandas.ipynb][this]]  notebook      | Friday  1 st March 11.59 p.m. |          |
-|-------+------------------------------------------+-------------------------------+----------|
-|     8 | Complete the [[./hws//hw8_tweet_cleanup_questions.ipynb][this]] hw notebook            | Monday 11 th March 11.59 p.m  |          |
-|-------+------------------------------------------+-------------------------------+----------|
-|       |                                          |                               |          |
+|-------------------------------+-------+------------------------------------------+----------|
+|                               | HW no | description and links                    | solution |
+| Due date                      |       |                                          |          |
+|-------------------------------+-------+------------------------------------------+----------|
+| Monday 21 th Jan 11.59 p.m    |     1 | Complete questions in [[./hws/HW1.ipynb][this notebooks]]     | [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=solutions/HW1_sol.ipynb][HW1 sol]]  |
+|                               |       |                                          |          |
+|-------------------------------+-------+------------------------------------------+----------|
+| Friday 25 th Jan 11.59 p.m    |     2 | Complete questions in [[./hws/HW2.ipynb][this]]  notebook     | [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=solutions/HW2_solutions.ipynb][HW2 sol]]  |
+|                               |       |                                          |          |
+|-------------------------------+-------+------------------------------------------+----------|
+| Thursday 31 Jan 11.59 p.m     |     3 | Complete questions in [[./hws/HW3.ipynb][this]]    notebook   | [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=solutions/HW3_solution.ipynb][HW3 sol]]  |
+|                               |       |                                          |          |
+|-------------------------------+-------+------------------------------------------+----------|
+| Friday 8 th Feb 11.59 p.m     |     4 | Complete question in [[./hws/calculate_basic_stats.sh][this bash file]]      | [[./solutions/calculate_basic_stats_sol.sh][HW4 key]]  |
+|                               |       |                                          |          |
+|-------------------------------+-------+------------------------------------------+----------|
+| Friday 15 Feb,  11.59 p.m     |     5 | Complete questions in [[./hws/hw5_twitter_api.ipynb][this]]  notebook     |          |
+|-------------------------------+-------+------------------------------------------+----------|
+| Friday  23 Feb, 11.59 p.m     |     6 | Complete questions in [[./hws/hw6_webscrapping.ipynb][this]] notebook      |          |
+|-------------------------------+-------+------------------------------------------+----------|
+| Friday  1 st March 11.59 p.m. |     7 | Complete question in [[./hws/hw7_movie_analysis_using_pandas.ipynb][this]]  notebook      |          |
+|-------------------------------+-------+------------------------------------------+----------|
+| Monday 11 th March 11.59 p.m  |     8 | Complete the [[./hws//hw8_tweet_cleanup_questions.ipynb][this]] hw notebook            |          |
+|-------------------------------+-------+------------------------------------------+----------|
+|                               |       |                                          |          |
 * Midterm
   - [[./notebooks/data_science_tool1_midterms.ipynb][midterm]]
 * Course Activity
@@ -273,7 +273,7 @@ I will go over basic of python and jupyter notebook.
 |------------+------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |            |                                    |                                                                                                                                                                             |
 |------------+------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 23 Jan     | [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/Data_science_at_command_prompt.ipynb][Data science at command prompt]]     | Finished how to move changes to feature branch. Not that when cleaning master branch using soft or mixed reset, master branch                                               |
+| 23 Jan     | [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/Data_science_at_command_prompt.ipynb][Data science at command prompt]]     | Finished how to move changes to feature branch. Not that when cleaning the master branch using soft or mixed reset, the master branch                                       |
 |            |                                    | will still contain your changes. If you use hard reset changes will be lost in master. **HEAD detached** will contain the changes if required.                              |
 |            |                                    | Finished Linux over view, basic commands, redirection and pipe.                                                                                                             |
 |------------+------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -282,14 +282,14 @@ I will go over basic of python and jupyter notebook.
 | 28 Jan     | Practice  posted notebooks         | Finished regular expression. Using basic Linux commands and regular expression (*curl, grep, sort, uniq*) found top k words in a Gutenberg book.                            |
 |            | See notebooks in notebooks section | Finished basic awk and sed.                                                                                                                                                 |
 |------------+------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 30 Jan     | See notebooks in notebooks section | Finished *positional parameters and command substitution* in bash scripting. Note that use *bc* command to do floating point arithmetics                                    |
+| 30 Jan     | See notebooks in notebooks section | Finished *positional parameters and command substitution* in bash scripting. Note that to use *bc* command to do floating point arithmetics                                 |
 |            |                                    | *numpy* library for scientific computation.                                                                                                                                 |
 |            |                                    | In the jupyter notebook use ? or ?? to read about a function(like *np.array?*). Press shit tab to get tool tip for function arguments(like *np.ones(* and press shift+tab). |
 |            |                                    | Started with REST API. */Please install chrome/* so that we have same options to click when inspecting https messages.                                                      |
 |            |                                    |                                                                                                                                                                             |
 |------------+------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |            | See 4 th feb notebooks             | Covered REST API. Will cover how to create REST API in tool2 using AWS api gateway and lambda function.                                                                     |
-| 4 Feb      | [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/Web_Scrapping_in_class.ipynb][Web Scrapping in class version]]     | Finished scrapping Fry electronics website for telescopes.                                                                                                                  |
+| 4 Feb      | [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/Web_Scrapping_in_class.ipynb][Web Scraping in class version]]      | Finished scraping Fry electronics website for telescopes.                                                                                                                   |
 |------------+------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 6 Feb      | Pandas basic see notebook section  |                                                                                                                                                                             |
 |------------+------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -301,7 +301,7 @@ I will go over basic of python and jupyter notebook.
 |------------+------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 20 th Feb  |                                    | Basic on NLP and normalization of text data                                                                                                                                 |
 |------------+------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 25 th Feb  |                                    | Text clean up, contraction, using wornet for synonyms, antonyms, hypernyms, hyponyms and edit distance                                                                      |
+| 25 th Feb  |                                    | Text clean up, contraction, using wordnet for synonyms, antonyms, hypernyms, hyponyms and edit distance                                                                     |
 |            |                                    | *There will be a comprehensive final in class exam. We'll use best your midterm or final marks(15% weight).*                                                                |
 |            |                                    |                                                                                                                                                                             |
 |------------+------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

@@ -5,7 +5,7 @@ Please select a project having enough scope for following activities.
 
 You will create a github repository for your project and *tag* it with
 label for presentation and final report. Github repository must have .ipynb notebook file and associated code.
-One should be able to run your project with [[https://mybinder.org/][binder]] link.(Infact we are running most of our notebooks in the class via binder) 
+One should be able to run your project with [[https://mybinder.org/][binder]] link.(In fact we are running most of our notebooks in the class via binder) 
 
 Final report, should read like a data driven story/scientific study (data science). This is really important if you want to publish your story as 
 blog in the web or share with stakeholders. Scientific publications have their own style and content requirements.
@@ -19,13 +19,13 @@ Please write each section like a report and must address the points mentioned in
   How/why  dataset was collected and describe the meta data of your dataset.
 
 ** Actual task definition/Research Question (2 points) 
-  What real world problem you trying to solve. *What is input and output of your analysis.*
+  What real-world problem you trying to solve. *What is input and output of your analysis.*
 
 ** Literature review (2 points)
   What other work has been done in this area and how is your work novel
   compared to others.
 ** Quality of cleaning (6 points, 2 points each)
- - Data Cleaning and type conversion activity. Anything unusual you have to face in this activity. Please share.
+ - Data Cleaning and type conversion activity. Anything unusual you faced during this activity. Please share.
  - What you did about missing values and why?
  - Data summary statistics and interpretation.
 
