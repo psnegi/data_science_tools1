@@ -242,7 +242,7 @@ I will go over basic of python and jupyter notebook.
 |                               |       |                                          |          |
 * Midterm
   - [[./notebooks/data_science_tool1_midterms.ipynb][midterm]]
-  - [[./solutions/data_science_tool1_midterms_sol.ipynb][midterm solution]]
+  - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/solutions/data_science_tool1_midterms_sol.ipynb][midterm solution]]
 * Course Activity
 
 | Date       | Reading/Coding Assignments         | class activity                                                                                                                                                              |
