@@ -215,31 +215,31 @@ I will go over basic of python and jupyter notebook.
 * Homeworks
 *No late hw will be accepted*
 
-|-------------------------------+-------+------------------------------------------+----------|
-|                               | HW no | description and links                    | solution |
-| Due date                      |       |                                          |          |
-|-------------------------------+-------+------------------------------------------+----------|
-| Monday 21 th Jan 11.59 p.m    |     1 | Complete questions in [[./hws/HW1.ipynb][this notebooks]]     | [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=solutions/HW1_sol.ipynb][HW1 sol]]  |
-|                               |       |                                          |          |
-|-------------------------------+-------+------------------------------------------+----------|
-| Friday 25 th Jan 11.59 p.m    |     2 | Complete questions in [[./hws/HW2.ipynb][this]]  notebook     | [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=solutions/HW2_solutions.ipynb][HW2 sol]]  |
-|                               |       |                                          |          |
-|-------------------------------+-------+------------------------------------------+----------|
-| Thursday 31 Jan 11.59 p.m     |     3 | Complete questions in [[./hws/HW3.ipynb][this]]    notebook   | [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=solutions/HW3_solution.ipynb][HW3 sol]]  |
-|                               |       |                                          |          |
-|-------------------------------+-------+------------------------------------------+----------|
-| Friday 8 th Feb 11.59 p.m     |     4 | Complete question in [[./hws/calculate_basic_stats.sh][this bash file]]      | [[./solutions/calculate_basic_stats_sol.sh][HW4 key]]  |
-|                               |       |                                          |          |
-|-------------------------------+-------+------------------------------------------+----------|
-| Friday 15 Feb,  11.59 p.m     |     5 | Complete questions in [[./hws/hw5_twitter_api.ipynb][this]]  notebook     |          |
-|-------------------------------+-------+------------------------------------------+----------|
-| Friday  23 Feb, 11.59 p.m     |     6 | Complete questions in [[./hws/hw6_webscrapping.ipynb][this]] notebook      |          |
-|-------------------------------+-------+------------------------------------------+----------|
-| Friday  1 st March 11.59 p.m. |     7 | Complete question in [[./hws/hw7_movie_analysis_using_pandas.ipynb][this]]  notebook      |          |
-|-------------------------------+-------+------------------------------------------+----------|
-| Monday 11 th March 11.59 p.m  |     8 | Complete the [[./hws//hw8_tweet_cleanup_questions.ipynb][this]] hw notebook            |          |
-|-------------------------------+-------+------------------------------------------+----------|
-|                               |       |                                          |          |
+|-------------------------------+-------+----------------------------------------+----------|
+|                               | HW no | description and links                  | solution |
+| Due date                      |       |                                        |          |
+|-------------------------------+-------+----------------------------------------+----------|
+| Monday 21 th Jan 11.59 p.m    |     1 | Complete questions in [[./hws/HW1.ipynb][this notebooks]]   | [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=solutions/HW1_sol.ipynb][HW1 sol]]  |
+|                               |       |                                        |          |
+|-------------------------------+-------+----------------------------------------+----------|
+| Friday 25 th Jan 11.59 p.m    |     2 | Complete questions in [[./hws/HW2.ipynb][this]]  notebook   | [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=solutions/HW2_solutions.ipynb][HW2 sol]]  |
+|                               |       |                                        |          |
+|-------------------------------+-------+----------------------------------------+----------|
+| Thursday 31 Jan 11.59 p.m     |     3 | Complete questions in [[./hws/HW3.ipynb][this]]    notebook | [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=solutions/HW3_solution.ipynb][HW3 sol]]  |
+|                               |       |                                        |          |
+|-------------------------------+-------+----------------------------------------+----------|
+| Friday 8 th Feb 11.59 p.m     |     4 | Complete question in [[./hws/calculate_basic_stats.sh][this bash file]]    | [[./solutions/calculate_basic_stats_sol.sh][HW4 key]]  |
+|                               |       |                                        |          |
+|-------------------------------+-------+----------------------------------------+----------|
+| Friday 15 Feb,  11.59 p.m     |     5 | Complete questions in [[./hws/hw5_twitter_api.ipynb][this]]  notebook   | [[./solutions/twitter_api_hw5_sol.ipynb][sol]]      |
+|-------------------------------+-------+----------------------------------------+----------|
+| Friday  23 Feb, 11.59 p.m     |     6 | Complete questions in [[./hws/hw6_webscrapping.ipynb][this]] notebook    |          |
+|-------------------------------+-------+----------------------------------------+----------|
+| Friday  1 st March 11.59 p.m. |     7 | Complete question in [[./hws/hw7_movie_analysis_using_pandas.ipynb][this]]  notebook    | [[./solutions/movie_analysis_using_pandas_sol.ipynb][sol]]      |
+|-------------------------------+-------+----------------------------------------+----------|
+| Monday 11 th March 11.59 p.m  |     8 | Complete the [[./hws//hw8_tweet_cleanup_questions.ipynb][this]] hw notebook          |          |
+|-------------------------------+-------+----------------------------------------+----------|
+|                               |       |                                        |          |
 * Midterm
   - [[./notebooks/data_science_tool1_midterms.ipynb][midterm]]
   - [[https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=solutions/data_science_tool1_midterms_sol.ipynb][midterm solution]]
